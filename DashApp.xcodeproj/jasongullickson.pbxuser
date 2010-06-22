@@ -1,0 +1,476 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* GaugeClusterAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1144}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1419}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* DashApp */ = {
+		activeExec = 0;
+		executables = (
+			BEED4183114F29AD00D9A408 /* GaugeCluster */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GaugeClusterViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {956, 641}}";
+			sepNavSelRange = "{303, 0}";
+			sepNavVisRange = "{0, 868}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 5525}}";
+			sepNavSelRange = "{7043, 0}";
+			sepNavVisRange = "{7019, 1613}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = BEED4183114F29AD00D9A408 /* GaugeCluster */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* DashApp */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* DashApp */,
+		);
+		breakpoints = (
+			BEC9F1AB115708C7005D16D5 /* GaugeClusterViewController.m:109 */,
+			BEC9F1AD115708C8005D16D5 /* GaugeClusterViewController.m:108 */,
+			BEC9F1F011570FF6005D16D5 /* GaugeClusterViewController.m:194 */,
+			BE4DFA4111588B6C0078BB39 /* GaugeClusterViewController.m:174 */,
+			BE7FFA0A115D846A00905F54 /* GaugeClusterViewController.m:309 */,
+			BE7FFA1E115D848400905F54 /* AddWidgetViewController.m:156 */,
+			BE7FFA53115D8A3900905F54 /* GaugeClusterViewController.m:254 */,
+			BE089BD6115DC690001AF404 /* GaugeClusterViewController.m:46 */,
+			BE762516115DDC07006BF08F /* WidgetView.m:32 */,
+			BE76254A115DDE83006BF08F /* WidgetView.m:21 */,
+		);
+		codeSenseManager = BEED419A114F29BD00D9A408 /* Code sense */;
+		executables = (
+			BEED4183114F29AD00D9A408 /* GaugeCluster */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					778,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 298875069;
+			PBXWorkspaceStateSaveDate = 298875069;
+		};
+		perUserProjectItems = {
+			BE089C2C115DD289001AF404 /* PBXBookmark */ = BE089C2C115DD289001AF404 /* PBXBookmark */;
+			BE089C2D115DD289001AF404 /* PBXBookmark */ = BE089C2D115DD289001AF404 /* PBXBookmark */;
+			BE118A3D11643A5C00F4452F /* PBXTextBookmark */ = BE118A3D11643A5C00F4452F /* PBXTextBookmark */;
+			BE2404E4115DEB2A009111C2 /* PBXBookmark */ = BE2404E4115DEB2A009111C2 /* PBXBookmark */;
+			BE762580115DE3A0006BF08F /* PBXTextBookmark */ = BE762580115DE3A0006BF08F /* PBXTextBookmark */;
+			BE762588115DE4E7006BF08F /* PBXTextBookmark */ = BE762588115DE4E7006BF08F /* PBXTextBookmark */;
+			BE762589115DE4E7006BF08F /* PBXTextBookmark */ = BE762589115DE4E7006BF08F /* PBXTextBookmark */;
+			BE7FFAD2115DACD400905F54 /* PBXTextBookmark */ = BE7FFAD2115DACD400905F54 /* PBXTextBookmark */;
+			BE8EDB1A115FF7AF00F3B177 /* PlistBookmark */ = BE8EDB1A115FF7AF00F3B177 /* PlistBookmark */;
+			BE8EDB34115FF8EF00F3B177 /* PBXTextBookmark */ = BE8EDB34115FF8EF00F3B177 /* PBXTextBookmark */;
+			BE8EDB5C115FFBD500F3B177 /* PBXTextBookmark */ = BE8EDB5C115FFBD500F3B177 /* PBXTextBookmark */;
+			BEBA0DEF11D079A300B983E9 /* PBXTextBookmark */ = BEBA0DEF11D079A300B983E9 /* PBXTextBookmark */;
+			BEC9F18A1157016C005D16D5 /* PBXTextBookmark */ = BEC9F18A1157016C005D16D5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = BEED4199114F29BD00D9A408 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9622F1CA1156E31000C7E1A0 /* WidgetViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1625}}";
+			sepNavSelRange = "{777, 1828}";
+			sepNavVisRange = "{1809, 1263}";
+		};
+	};
+	9630EAE61157FC1F006E028C /* AddWidgetViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {956, 641}}";
+			sepNavSelRange = "{422, 0}";
+			sepNavVisRange = "{0, 878}";
+		};
+	};
+	9630EAE71157FC1F006E028C /* AddWidgetViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 2548}}";
+			sepNavSelRange = "{407, 0}";
+			sepNavVisRange = "{0, 1621}";
+		};
+	};
+	96E40E72115AC34C004E0446 /* WidgetStorageClass.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {636, 455}}";
+			sepNavSelRange = "{256, 0}";
+			sepNavVisRange = "{0, 343}";
+		};
+	};
+	BE089BD6115DC690001AF404 /* GaugeClusterViewController.m:46 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-layoutSubviews";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 46;
+		location = GaugeCluster;
+		modificationTime = 291781110.087765;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	BE089C2C115DD289001AF404 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BE089C1E115DD13C001AF404 /* buttonback.png */;
+	};
+	BE089C2D115DD289001AF404 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BE089C22115DD1EE001AF404 /* redbuttonback.png */;
+	};
+	BE118A3D11643A5C00F4452F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEC9F1BC11570B03005D16D5 /* WidgetView.m */;
+		name = "WidgetView.m: 39";
+		rLen = 0;
+		rLoc = 1079;
+		rType = 0;
+		vrLen = 1656;
+		vrLoc = 306;
+	};
+	BE2404E4115DEB2A009111C2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	BE4DFA4111588B6C0078BB39 /* GaugeClusterViewController.m:174 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-AddWidget:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 174;
+		location = GaugeCluster;
+		modificationTime = 291781110.08766;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	BE762516115DDC07006BF08F /* WidgetView.m:32 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = BEC9F1BC11570B03005D16D5 /* WidgetView.m */;
+		functionName = "-loadWidget";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 32;
+		modificationTime = 291781110.087796;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	BE76254A115DDE83006BF08F /* WidgetView.m:21 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = BEC9F1BC11570B03005D16D5 /* WidgetView.m */;
+		functionName = "-webViewDidFinishLoad:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 21;
+		location = GaugeCluster;
+		modificationTime = 291781110.088003;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	BE762580115DE3A0006BF08F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9630EAE71157FC1F006E028C /* AddWidgetViewController.m */;
+		name = "AddWidgetViewController.m: 17";
+		rLen = 0;
+		rLoc = 407;
+		rType = 0;
+		vrLen = 1621;
+		vrLoc = 0;
+	};
+	BE762588115DE4E7006BF08F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9630EAE61157FC1F006E028C /* AddWidgetViewController.h */;
+		name = "AddWidgetViewController.h: 18";
+		rLen = 0;
+		rLoc = 422;
+		rType = 0;
+		vrLen = 878;
+		vrLoc = 0;
+	};
+	BE762589115DE4E7006BF08F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GaugeClusterViewController.h */;
+		name = "GaugeClusterViewController.h: 16";
+		rLen = 0;
+		rLoc = 303;
+		rType = 0;
+		vrLen = 868;
+		vrLoc = 0;
+	};
+	BE7FFA0A115D846A00905F54 /* GaugeClusterViewController.m:309 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-handle_widgetAdd:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 309;
+		location = GaugeCluster;
+		modificationTime = 291781110.087679;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	BE7FFA1E115D848400905F54 /* AddWidgetViewController.m:156 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9630EAE71157FC1F006E028C /* AddWidgetViewController.m */;
+		functionName = "-webView:shouldStartLoadWithRequest:navigationType:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 156;
+		location = GaugeCluster;
+		modificationTime = 291781110.087705;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	BE7FFA53115D8A3900905F54 /* GaugeClusterViewController.m:254 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-AddWidget:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 254;
+		location = GaugeCluster;
+		modificationTime = 291781110.087736;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	BE7FFAD2115DACD400905F54 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GaugeClusterAppDelegate.m */;
+		name = "GaugeClusterAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1419;
+		vrLoc = 0;
+	};
+	BE8EDB1A115FF7AF00F3B177 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* DashApp-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jasongullickson/Dropbox/Development/GaugeCluster/DashApp-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	BE8EDB34115FF8EF00F3B177 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		name = "GaugeClusterViewController.m: 231";
+		rLen = 0;
+		rLoc = 7043;
+		rType = 0;
+		vrLen = 1613;
+		vrLoc = 7019;
+	};
+	BE8EDB5C115FFBD500F3B177 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEC9F1BB11570B03005D16D5 /* WidgetView.h */;
+		name = "WidgetView.h: 26";
+		rLen = 0;
+		rLoc = 646;
+		rType = 0;
+		vrLen = 652;
+		vrLoc = 0;
+	};
+	BEBA0DEF11D079A300B983E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEC9F1BC11570B03005D16D5 /* WidgetView.m */;
+		name = "WidgetView.m: 39";
+		rLen = 0;
+		rLoc = 1079;
+		rType = 0;
+		vrLen = 1656;
+		vrLoc = 306;
+	};
+	BEC9F18A1157016C005D16D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9622F1CA1156E31000C7E1A0 /* WidgetViewController.m */;
+		name = "WidgetViewController.m: 31";
+		rLen = 1828;
+		rLoc = 777;
+		rType = 0;
+		vrLen = 1263;
+		vrLoc = 1809;
+	};
+	BEC9F1AB115708C7005D16D5 /* GaugeClusterViewController.m:109 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-touchesMoved:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 109;
+		modificationTime = 291781110.087377;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	BEC9F1AD115708C8005D16D5 /* GaugeClusterViewController.m:108 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-touchesMoved:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 108;
+		location = GaugeCluster;
+		modificationTime = 291781110.0875739;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	BEC9F1BB11570B03005D16D5 /* WidgetView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {956, 641}}";
+			sepNavSelRange = "{646, 0}";
+			sepNavVisRange = "{0, 652}";
+		};
+	};
+	BEC9F1BC11570B03005D16D5 /* WidgetView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 3367}}";
+			sepNavSelRange = "{1079, 0}";
+			sepNavVisRange = "{306, 1656}";
+		};
+	};
+	BEC9F1F011570FF6005D16D5 /* GaugeClusterViewController.m:194 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-Arrange:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 194;
+		location = GaugeCluster;
+		modificationTime = 291781110.087606;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	BEED4183114F29AD00D9A408 /* GaugeCluster */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GaugeCluster;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	BEED4199114F29BD00D9A408 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BEED419A114F29BD00D9A408 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

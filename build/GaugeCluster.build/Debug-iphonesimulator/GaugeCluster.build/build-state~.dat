@@ -1,0 +1,1516 @@
+TGaugeCluster
+v7
+r0
+t291367721.451878
+cCheck dependencies
+cProcessInfoPlistFile /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Info.plist GaugeCluster-Info.plist
+cCompileXIB /Users/jasongullickson/Dropbox/Development/GaugeCluster/MainWindow.xib
+cCompileXIB /Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+cCompileXIB /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+cCompileXIB /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+cCpResource build/Debug-iphonesimulator/GaugeCluster.app/buttonback.png buttonback.png
+cCpResource build/Debug-iphonesimulator/GaugeCluster.app/redbuttonback.png redbuttonback.png
+cCpResource build/Debug-iphonesimulator/GaugeCluster.app/DashAppIconSmall.png DashAppIconSmall.png
+cProcessPCH /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-bzvrknispqvhkiguvptffkhoumju/GaugeCluster_Prefix.pch.gch GaugeCluster_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/main.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterAppDelegate.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterViewController.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetViewController.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetView.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/AddWidgetViewController.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetStorageClass.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster normal i386
+cGenerateDSYMFile /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app.dSYM /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster
+cTouch /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BA1B0CE0000000000000110
+t1268887758
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B9F1DB3000000000026F020
+t1268719027
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B9F26A3000000000000007D
+t1268721315
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B9F27B9000000000011BF20
+t1268721593
+s1163040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F30E7000000000000098F
+t1268723943
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h
+c000000004B9F30E70000000000000833
+t1268723943
+s2099
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F3183000000000214E400
+t1268724099
+s34923520
+
+N/Users/jason/Dropbox/Development/GaugeCluster/../../../Desktop/DashAppLarge.jpg
+c000000004BA4E04B0000000000009F48
+t1269096523
+s40776
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.h
+c000000004BAC1AD10000000000000289
+t1269570257
+s649
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m
+c000000004BAC366600000000000010E1
+t1269577318
+s4321
+i"AddWidgetViewController.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+c000000004BAC1FE10000000000007BB2
+t1269571553
+s31666
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.h
+c000000004BAA97C30000000000000281
+t1269471171
+s641
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m
+c000000004BAA97E10000000000000971
+t1269471201
+s2417
+i"GaugeClusterAppDelegate.h"
+i"GaugeClusterViewController.h"
+i"WidgetView.h"
+i"WidgetStorageClass.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.h
+c000000004BAA96370000000000000364
+t1269470775
+s868
+i<UIKit/UIKit.h>
+i<UIKit/UIWebView.h>
+i"WidgetStorageClass.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m
+c000000004BAC197C00000000000029B3
+t1269569916
+s10675
+i"GaugeClusterViewController.h"
+i"WidgetView.h"
+i"AddWidgetViewController.h"
+i"WidgetStorageClass.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/PopoverContentController.h
+c000000004BA8D66E0000000000000100
+t1269356142
+s256
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/PopoverContentController.m
+c000000004BA8D66E00000000000005C0
+t1269356142
+s1472
+i"PopoverContentController.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/PopoverContentController.xib
+c000000004BA8D66E0000000000001883
+t1269356142
+s6275
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.h
+c000000004BAA998D00000000000001C7
+t1269471629
+s455
+i<Foundation/Foundation.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m
+c000000004BAA9BAB00000000000002A1
+t1269472171
+s673
+i"WidgetStorageClass.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.h
+c000000004BAA8FCD0000000000000197
+t1269469133
+s407
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m
+c000000004BAA89DE0000000000000CB8
+t1269467614
+s3256
+i"WidgetView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.xib
+c000000004BA6A3EB0000000000001859
+t1269212139
+s6233
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.h
+c000000004BA6AB9000000000000000F8
+t1269214096
+s248
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m
+c000000004BA7C6B80000000000000C54
+t1269286584
+s3156
+i"WidgetViewController.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+c000000004BA6B1340000000000003F1B
+t1269215540
+s16155
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Clown Fish.jpg
+c000000004BA8572900000000000FF1A1
+t1269323561
+s1044897
+
+N/Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+c000000004BA8F8CB00000000000054D8
+t1269364939
+s21720
+
+N/Users/jason/Dropbox/Development/GaugeCluster/GaugeCluster_Prefix.pch
+c000000004B9EF22D00000000000000C1
+t1268707885
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib
+c000000004B9EF22C0000000000004D3B
+t1268707884
+s19771
+
+N/Users/jason/Dropbox/Development/GaugeCluster/WidgetButtonFacebook.png
+c000000004BA9FCED0000000000002341
+t1269431533
+s9025
+
+N/Users/jason/Dropbox/Development/GaugeCluster/WidgetButtonTemplate.acorn
+c000000004BA9FCDC0000000000007000
+t1269431516
+s28672
+
+N/Users/jason/Dropbox/Development/GaugeCluster/WidgetButtonTwitter.png
+c000000004BA9FD54000000000000269F
+t1269431636
+s9887
+
+N/Users/jason/Dropbox/Development/GaugeCluster/WidgetButtonWordpress.png
+c000000004BA9FDAA0000000000002053
+t1269431722
+s8275
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Default.png
+c000000004BA4E62D0000000000002120
+t1269098029
+s8480
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Icon.png
+c000000004BA4E62D0000000000001D9C
+t1269098029
+s7580
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Images/DevelopedWith.png
+c000000004BA4E62D0000000000000EAF
+t1269098029
+s3759
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Info.plist
+c000000004BA4E6D1000000000000032F
+t1269098193
+s815
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/back.png
+c000000004BA4E62D0000000000005B7B
+t1269098029
+s23419
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/front.png
+c000000004BA4E62D000000000000111A
+t1269098029
+s4378
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_left.png
+c000000004BA4E62D00000000000001A0
+t1269098029
+s416
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_middle.png
+c000000004BA4E62D0000000000000117
+t1269098029
+s279
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_right.png
+c000000004BA4E62D00000000000001B5
+t1269098029
+s437
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/license.txt
+c000000004BA4E62D00000000000008AF
+t1269098029
+s2223
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/en.lproj/InfoPlist.strings
+c000000004BA4E6D10000000000000050
+t1269098193
+s80
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/main.css
+c000000004BA4E62D0000000000000FCD
+t1269098029
+s4045
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/main.html
+c000000004BA4E6D100000000000008BF
+t1269098193
+s2239
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app
+t1269577319
+s476
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app.dSYM
+t1269577319
+s102
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/AddWidgetViewController.nib
+t1269571559
+s2950
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Clown Fish.jpg
+t1269323688
+s1044897
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/DashAppLarge.jpg
+t1269100204
+s40776
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Default.png
+t1269098967
+s8480
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/DevelopedWith.png
+t1269098967
+s3759
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster
+t1269577319
+s44244
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeClusterViewController.nib
+t1269364967
+s1042
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Icon.png
+t1269098967
+s7580
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Info.plist
+t1269098998
+s818
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/MainWindow.nib
+t1269098999
+s1127
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/PkgInfo
+t1269098998
+s8
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/PopoverContentController.nib
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/WidgetButtonFacebook.png
+t1269432231
+s9025
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/WidgetButtonTemplate.acorn
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/WidgetButtonTwitter.png
+t1269432231
+s9887
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/WidgetButtonWordpress.png
+t1269432231
+s8275
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/WidgetView.nib
+t1269212263
+s769
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/WidgetViewController.nib
+t1269215595
+s800
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/back.png
+t1269098967
+s23419
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/en.lproj/InfoPlist.strings
+t1269098967
+s82
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/front.png
+t1269098967
+s4378
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/license.txt
+t1269098967
+s2223
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/main.css
+t1269098967
+s4045
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/main.html
+t1269098967
+s2239
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/timer-bg_left.png
+t1269098967
+s416
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/timer-bg_middle.png
+t1269098967
+s279
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/timer-bg_right.png
+t1269098967
+s437
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/AddWidgetViewController.o
+t1269577319
+s45920
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeCluster.LinkFileList
+c000000004BAC3626000000000000042D
+t1269577254
+s1069
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterAppDelegate.o
+t1269569430
+s48576
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterViewController.o
+t1269577254
+s55672
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/PopoverContentController.o
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetStorageClass.o
+t1269472172
+s11256
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetView.o
+t1269469134
+s21372
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetViewController.o
+t1269286594
+s36752
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/main-B9843B6026D6EFA4.o
+t1269098969
+s5956
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/main.o
+t1269221703
+s5976
+
+N/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Default.png
+c000000004BA4E62D0000000000002120
+t1269098029
+s8480
+
+N/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Icon.png
+c000000004BA4E62D0000000000001D9C
+t1269098029
+s7580
+
+N/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Images/DevelopedWith.png
+c000000004BA4E62D0000000000000EAF
+t1269098029
+s3759
+
+N/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Info.plist
+c000000004BA4E6D1000000000000032F
+t1269098193
+s815
+
+N/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/back.png
+c000000004BA4E62D0000000000005B7B
+t1269098029
+s23419
+
+N/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/front.png
+c000000004BA4E62D000000000000111A
+t1269098029
+s4378
+
+N/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/timer-bg_left.png
+c000000004BA4E62D00000000000001A0
+t1269098029
+s416
+
+N/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/timer-bg_middle.png
+c000000004BA4E62D0000000000000117
+t1269098029
+s279
+
+N/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/timer-bg_right.png
+c000000004BA4E62D00000000000001B5
+t1269098029
+s437
+
+N/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/license.txt
+c000000004BA4E62D00000000000008AF
+t1269098029
+s2223
+
+N/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/en.lproj/InfoPlist.strings
+c000000004BA4E6D10000000000000050
+t1269098193
+s80
+
+N/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/main.css
+c000000004BA4E62D0000000000000FCD
+t1269098029
+s4045
+
+N/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/main.html
+c000000004BA4E6D100000000000008BF
+t1269098193
+s2239
+
+N/Users/jason/Dropbox/Development/GaugeCluster/main.m
+c000000004B9EF22D0000000000000173
+t1268707885
+s371
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/../../../Desktop/DashAppLarge.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.h
+c000000004BADAC88000000000000036E
+t1269673096
+s878
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m
+c000000004BADABE7000000000000172B
+t1269672935
+s5931
+i"AddWidgetViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+c000000004BADAC9B0000000000007620
+t1269673115
+s30240
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.h
+c000000004BAA97C30000000000000281
+t1269471171
+s641
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m
+c000000004BAA97E10000000000000971
+t1269471201
+s2417
+i"GaugeClusterAppDelegate.h"
+i"GaugeClusterViewController.h"
+i"WidgetView.h"
+i"WidgetStorageClass.h"
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.h
+c000000004BAA96370000000000000364
+t1269470775
+s868
+i<UIKit/UIKit.h>
+i<UIKit/UIWebView.h>
+i"WidgetStorageClass.h"
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m
+c000000004BADA6D60000000000002E2C
+t1269671638
+s11820
+i"GaugeClusterViewController.h"
+i"WidgetView.h"
+i"AddWidgetViewController.h"
+i"WidgetStorageClass.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.h
+c000000004BAA998D00000000000001C7
+t1269471629
+s455
+i<Foundation/Foundation.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m
+c000000004BAA9BAB00000000000002A1
+t1269472171
+s673
+i"WidgetStorageClass.h"
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.h
+c000000004BADA6800000000000000273
+t1269671552
+s627
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.m
+c000000004BADAAB000000000000013A0
+t1269672624
+s5024
+i"WidgetView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.h
+c000000004BA6AB9000000000000000F8
+t1269214096
+s248
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m
+c000000004BA7C6B80000000000000C54
+t1269286584
+s3156
+i"WidgetViewController.h"
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+c000000004BA6B1340000000000003F1B
+t1269215540
+s16155
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Clown Fish.jpg
+c000000004BA8572900000000000FF1A1
+t1269323561
+s1044897
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/DashAppAppBackground.png
+c000000004BAD6B0000000000000084A8
+t1269656320
+s33960
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/DashAppIconSmall.png
+c000000004BADB3060000000000000AE3
+t1269674758
+s2787
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/DashAppbackground.png
+c000000004BAD68B40000000000032827
+t1269655732
+s206887
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+c000000004BAD8E410000000000004845
+t1269665345
+s18501
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeCluster_Prefix.pch
+c000000004B9EF22D00000000000000C1
+t1268707885
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/MainWindow.xib
+c000000004B9EF22C0000000000004D3B
+t1268707884
+s19771
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/WidgetButtonFacebook.png
+c000000004BA9FCED0000000000002341
+t1269431533
+s9025
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/WidgetButtonTwitter.png
+c000000004BA9FD54000000000000269F
+t1269431636
+s9887
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/WidgetButtonWordpress.png
+c000000004BA9FDAA0000000000002053
+t1269431722
+s8275
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app
+t1269674921
+s408
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app.dSYM
+t1269674921
+s102
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/AddWidgetViewController.nib
+t1269674917
+s2839
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Clown Fish.jpg
+t1269323688
+s1044897
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/DashAppAppBackground.png
+t1269656571
+s33960
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/DashAppIconSmall.png
+t1269674917
+s2787
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/DashAppLarge.jpg
+t2
+s0
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/DashAppbackground.png
+t1269655829
+s206887
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster
+t1269674921
+s46296
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeClusterViewController.nib
+t1269674916
+s769
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Info.plist
+t1269674914
+s866
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/MainWindow.nib
+t1269674916
+s1127
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/PkgInfo
+t1269674914
+s8
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/WidgetButtonFacebook.png
+t1269432231
+s9025
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/WidgetButtonTwitter.png
+t1269432231
+s9887
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/WidgetButtonWordpress.png
+t1269432231
+s8275
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/WidgetViewController.nib
+t1269674917
+s800
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/buttonback.png
+t1269674917
+s2196
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/redbuttonback.png
+t1269674917
+s1599
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/AddWidgetViewController.o
+t1269674920
+s49596
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeCluster.LinkFileList
+c000000004BADB3A20000000000000473
+t1269674914
+s1139
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterAppDelegate.o
+t1269674919
+s49136
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterViewController.o
+t1269674920
+s57832
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetStorageClass.o
+t1269674920
+s11276
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetView.o
+t1269674920
+s30164
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetViewController.o
+t1269674920
+s36772
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/main.o
+t1269674919
+s5976
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/buttonback.png
+c000000004BAD99A00000000000000894
+t1269668256
+s2196
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/main.m
+c000000004B9EF22D0000000000000173
+t1268707885
+s371
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/redbuttonback.png
+c000000004BAD9A5D000000000000063F
+t1269668445
+s1599
+
+N/var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-agmxacwwaqkqvldjlseiufwlntpa/GaugeCluster_Prefix.pch.gch
+t1269099000
+s13805456
+
+N/var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-bzvrknispqvhkiguvptffkhoumju/GaugeCluster_Prefix.pch.gch
+t1269674919
+s13805456
+
+NGaugeCluster-Info.plist
+c000000004BADB35B00000000000004BE
+t1269674843
+s1214
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291367714#291367714#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/AddWidgetViewController.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291270119.022883
+e291270119.343449
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/AddWidgetViewController.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m291270119#291270119#0(0"0(0#0#79"/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m4300911832#2080"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-agmxacwwaqkqvldjlseiufwlntpa/GaugeCluster_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/AddWidgetViewController.o0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/AddWidgetViewController.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291367720.589593
+e291367720.703438
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/AddWidgetViewController.o
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m291367720#291367720#0(0"0(0#0#89"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m4300911832#2190"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-bzvrknispqvhkiguvptffkhoumju/GaugeCluster_Prefix.pch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/AddWidgetViewController.o0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterAppDelegate.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291164429.282687
+e291164429.423039
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterAppDelegate.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m291164429#291164429#0(0"0(0#0#79"/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m4300911832#2080"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-agmxacwwaqkqvldjlseiufwlntpa/GaugeCluster_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterAppDelegate.o0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterAppDelegate.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291367719.829262
+e291367719.998178
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterAppDelegate.o
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m291367719#291367720#0(0"0(0#0#89"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m4300911832#2190"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-bzvrknispqvhkiguvptffkhoumju/GaugeCluster_Prefix.pch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterAppDelegate.o0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterViewController.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291270054.536660
+e291270054.804197
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterViewController.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m291270054#291270054#0(0"0(0#0#82"/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m8319100054294983680#2086"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-agmxacwwaqkqvldjlseiufwlntpa/GaugeCluster_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterViewController.o0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterViewController.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291367719.998302
+e291367720.350817
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterViewController.o
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m291367719#291367720#0(0"0(0#0#92"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m4300911832#2196"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-bzvrknispqvhkiguvptffkhoumju/GaugeCluster_Prefix.pch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeClusterViewController.o0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/PopoverContentController.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/PopoverContentController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetStorageClass.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291164972.068655
+e291164972.288238
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetStorageClass.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m291164972#291164972#0(0"0(0#0#74"/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m4300911832#2070"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-agmxacwwaqkqvldjlseiufwlntpa/GaugeCluster_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetStorageClass.o0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetStorageClass.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291367720.703565
+e291367720.804690
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetStorageClass.o
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m291367720#291367720#0(0"0(0#0#84"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m4300911832#2180"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-bzvrknispqvhkiguvptffkhoumju/GaugeCluster_Prefix.pch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetStorageClass.o0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetView.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291161934.161415
+e291161934.279634
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetView.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m291161934#291161934#0(0"0(0#0#66"/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m4300911832#2054"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-agmxacwwaqkqvldjlseiufwlntpa/GaugeCluster_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetView.o0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetView.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291367720.454673
+e291367720.589459
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetView.o
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.m291367720#291367720#0(0"0(0#0#76"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.m4300911832#2164"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-bzvrknispqvhkiguvptffkhoumju/GaugeCluster_Prefix.pch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.m -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetView.o0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetViewController.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290979393.959729
+e290979394.136799
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetViewController.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m290979393#290979394#0(0"0(0#0#76"/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m4300911832#2074"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-agmxacwwaqkqvldjlseiufwlntpa/GaugeCluster_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetViewController.o0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetViewController.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291367720.350949
+e291367720.454539
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetViewController.o
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m291367720#291367720#0(0"0(0#0#86"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m4300911832#2184"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-bzvrknispqvhkiguvptffkhoumju/GaugeCluster_Prefix.pch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/WidgetViewController.o0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/main-B9843B6026D6EFA4.o /Users/jason/Dropbox/Development/GaugeCluster/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290791768.998234
+e290791769.060580
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/main-B9843B6026D6EFA4.o
+x/Users/jason/Dropbox/Development/GaugeCluster/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/jason/Dropbox/Development/GaugeCluster/main.m290791768#290791769#0(0"0(0#0#52"/Users/jason/Dropbox/Development/GaugeCluster/main.m4300911832#2051"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-agmxacwwaqkqvldjlseiufwlntpa/GaugeCluster_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/main.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/main-B9843B6026D6EFA4.o0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/main.o /Users/jason/Dropbox/Development/GaugeCluster/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s290791800.507023
+e290791800.551517
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/main.o
+x/Users/jason/Dropbox/Development/GaugeCluster/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/jason/Dropbox/Development/GaugeCluster/main.m290791800#290791800#0(0"0(0#0#52"/Users/jason/Dropbox/Development/GaugeCluster/main.m4300911832#2034"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-agmxacwwaqkqvldjlseiufwlntpa/GaugeCluster_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/main.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/main.o0#
+
+CCompileC build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/main.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291367719.671565
+e291367719.829140
+r1
+xCompileC
+xbuild/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/main.o
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/main.m291367719#291367719#0(0"0(0#0#62"/Users/jasongullickson/Dropbox/Development/GaugeCluster/main.m4300911832#2144"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-bzvrknispqvhkiguvptffkhoumju/GaugeCluster_Prefix.pch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/main.m -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+s291165906.175533
+e291165906.571596
+r1
+xCompileXIB
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+lSLF07#2@46"CompileXIB Classes/AddWidgetViewController.xib291165906#291165906#0(0"0(0#0#81"/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib4300911832#540"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/AddWidgetViewController.nib /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib0#
+
+CCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/Classes/PopoverContentController.xib
+r0
+
+CCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.xib
+s290905063.288445
+e290905063.551318
+r1
+xCompileXIB
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.xib
+lSLF07#2@33"CompileXIB Classes/WidgetView.xib290905063#290905063#0(0"0(0#0#68"/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.xib4300911832#514"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/WidgetView.nib /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.xib0#
+
+CCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+s290908395.015836
+e290908395.255174
+r1
+xCompileXIB
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+lSLF07#2@43"CompileXIB Classes/WidgetViewController.xib290908395#290908395#0(0"0(0#0#78"/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib4300911832#534"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/WidgetViewController.nib /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib0#
+
+CCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+s291057766.339083
+e291057767.129301
+r1
+xCompileXIB
+x/Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+lSLF07#2@41"CompileXIB GaugeClusterViewController.xib291057766#291057767#0(0"0(0#0#76"/Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib4300911832#538"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeClusterViewController.nib /Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib0#
+
+CCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib
+s290791798.477166
+e290791799.072811
+r1
+xCompileXIB
+x/Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib290791798#290791799#0(0"0(0#0#60"/Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib4300911832#506"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/MainWindow.nib /Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib0#
+
+CCompileXIB /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+s291367716.948558
+e291367717.864006
+r1
+xCompileXIB
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+lSLF07#2@46"CompileXIB Classes/AddWidgetViewController.xib291367716#291367717#0(0"0(0#0#91"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib4300911832#570"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/AddWidgetViewController.nib /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib0#
+
+CCompileXIB /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+s291367716.782160
+e291367717.317964
+r1
+xCompileXIB
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+lSLF07#2@43"CompileXIB Classes/WidgetViewController.xib291367716#291367717#0(0"0(0#0#88"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib4300911832#564"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/WidgetViewController.nib /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib0#
+
+CCompileXIB /Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+s291367714.223057
+e291367716.781928
+r1
+xCompileXIB
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+lSLF07#2@41"CompileXIB GaugeClusterViewController.xib291367714#291367716#0(0"0(0#0#86"/Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib4300911832#568"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeClusterViewController.nib /Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib0#
+
+CCompileXIB /Users/jasongullickson/Dropbox/Development/GaugeCluster/MainWindow.xib
+s291367714.221071
+e291367716.948455
+r1
+xCompileXIB
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib291367714#291367716#0(0"0(0#0#70"/Users/jasongullickson/Dropbox/Development/GaugeCluster/MainWindow.xib4300911832#536"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/MainWindow.nib /Users/jasongullickson/Dropbox/Development/GaugeCluster/MainWindow.xib0#
+
+CCopyPlistFile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Info.plist Widgets/iPadCountdown.wdgt/Info.plist
+s290791767.015153
+e290791767.062276
+r1
+xCopyPlistFile
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Info.plist
+xWidgets/iPadCountdown.wdgt/Info.plist
+lSLF07#2@42"Copy Widgets/iPadCountdown.wdgt/Info.plist290791767#290791767#0(0"0(0#0#83"/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Info.plist4300911832#431"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Widgets/iPadCountdown.wdgt/Info.plist --outdir /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCopyPlistFile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Info.plist iPadCountdown.wdgt/Info.plist
+s290791298.351138
+e290791298.378054
+r1
+xCopyPlistFile
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Info.plist
+xiPadCountdown.wdgt/Info.plist
+lSLF07#2@34"Copy iPadCountdown.wdgt/Info.plist290791298#290791298#0(0"0(0#0#75"/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Info.plist4300911832#423"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 iPadCountdown.wdgt/Info.plist --outdir /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCopyStringsFile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/en.lproj/InfoPlist.strings Widgets/iPadCountdown.wdgt/en.lproj/InfoPlist.strings
+s290791767.470576
+e290791767.526447
+r1
+xCopyStringsFile
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/en.lproj/InfoPlist.strings
+xWidgets/iPadCountdown.wdgt/en.lproj/InfoPlist.strings
+oWidgets/iPadCountdown.wdgt/en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@58"Copy Widgets/iPadCountdown.wdgt/en.lproj/InfoPlist.strings290791767#290791767#0(155"Widgets/iPadCountdown.wdgt/en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#99"/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/en.lproj/InfoPlist.strings4300911832#529"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary Widgets/iPadCountdown.wdgt/en.lproj/InfoPlist.strings --outdir /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/en.lproj0#
+
+CCopyStringsFile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/en.lproj/InfoPlist.strings iPadCountdown.wdgt/en.lproj/InfoPlist.strings
+s290791207.217074
+e290791207.327936
+r1
+xCopyStringsFile
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/en.lproj/InfoPlist.strings
+xiPadCountdown.wdgt/en.lproj/InfoPlist.strings
+oiPadCountdown.wdgt/en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@50"Copy iPadCountdown.wdgt/en.lproj/InfoPlist.strings290791207#290791207#0(147"iPadCountdown.wdgt/en.lproj/InfoPlist.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#91"/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/en.lproj/InfoPlist.strings4300911832#521"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary iPadCountdown.wdgt/en.lproj/InfoPlist.strings --outdir /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/en.lproj0#
+
+CCpResource "build/Debug-iphonesimulator/GaugeCluster.app/Clown Fish.jpg" "Clown Fish.jpg"
+s291016487.936468
+e291016488.268545
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/Clown Fish.jpg
+xClown Fish.jpg
+lSLF07#2@19"Copy Clown Fish.jpg291016487#291016488#0(0"0(0#0#70"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Clown Fish.jpg4300911832#516"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/jasongullickson/Dropbox/Development/GaugeCluster/Clown Fish.jpg" /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/DashAppAppBackground.png DashAppAppBackground.png
+s291349370.771719
+e291349371.082533
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/DashAppAppBackground.png
+xDashAppAppBackground.png
+lSLF07#2@29"Copy DashAppAppBackground.png291349370#291349371#0(0"0(0#0#80"/Users/jasongullickson/Dropbox/Development/GaugeCluster/DashAppAppBackground.png4300911832#524"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jasongullickson/Dropbox/Development/GaugeCluster/DashAppAppBackground.png /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/DashAppIconSmall.png DashAppIconSmall.png
+s291367717.320899
+e291367717.327732
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/DashAppIconSmall.png
+xDashAppIconSmall.png
+lSLF07#2@25"Copy DashAppIconSmall.png291367717#291367717#0(0"0(0#0#76"/Users/jasongullickson/Dropbox/Development/GaugeCluster/DashAppIconSmall.png4300911832#520"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jasongullickson/Dropbox/Development/GaugeCluster/DashAppIconSmall.png /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/DashAppLarge.jpg ../../../Desktop/DashAppLarge.jpg
+s290914498.067276
+e290914498.370565
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/DashAppLarge.jpg
+x../../../Desktop/DashAppLarge.jpg
+opbxcp: DashAppLarge.jpg: No such file or directory
+lSLF07#2@38"Copy ../../../Desktop/DashAppLarge.jpg290914498#290914498#0(51"pbxcp: DashAppLarge.jpg: No such file or directory1(4@50"pbxcp: DashAppLarge.jpg: No such file or directory290914498#18446744073709551615#0#0(6@0"290914498#0#0#0#0#0"0(0#0#89"/Users/jasongullickson/Dropbox/Development/GaugeCluster/../../../Desktop/DashAppLarge.jpg18859257238061172#533"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jasongullickson/Dropbox/Development/GaugeCluster/../../../Desktop/DashAppLarge.jpg /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app1#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/DashAppbackground.png DashAppbackground.png
+s291348629.938751
+e291348630.000522
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/DashAppbackground.png
+xDashAppbackground.png
+lSLF07#2@26"Copy DashAppbackground.png291348629#291348630#0(0"0(0#0#77"/Users/jasongullickson/Dropbox/Development/GaugeCluster/DashAppbackground.png4300911832#521"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jasongullickson/Dropbox/Development/GaugeCluster/DashAppbackground.png /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/Default.png Widgets/iPadCountdown.wdgt/Default.png
+s290791767.468978
+e290791767.476551
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/Default.png
+xWidgets/iPadCountdown.wdgt/Default.png
+lSLF07#2@43"Copy Widgets/iPadCountdown.wdgt/Default.png290791767#290791767#0(0"0(0#0#84"/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Default.png4300911832#508"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Default.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/Default.png iPadCountdown.wdgt/Default.png
+s290791207.214848
+e290791207.316572
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/Default.png
+xiPadCountdown.wdgt/Default.png
+lSLF07#2@35"Copy iPadCountdown.wdgt/Default.png290791207#290791207#0(0"0(0#0#76"/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Default.png4300911832#500"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Default.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/DevelopedWith.png Widgets/iPadCountdown.wdgt/Images/DevelopedWith.png
+s290791767.481361
+e290791767.496818
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/DevelopedWith.png
+xWidgets/iPadCountdown.wdgt/Images/DevelopedWith.png
+lSLF07#2@56"Copy Widgets/iPadCountdown.wdgt/Images/DevelopedWith.png290791767#290791767#0(0"0(0#0#97"/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Images/DevelopedWith.png4300911832#521"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Images/DevelopedWith.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/DevelopedWith.png iPadCountdown.wdgt/Images/DevelopedWith.png
+s290791207.329621
+e290791207.364271
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/DevelopedWith.png
+xiPadCountdown.wdgt/Images/DevelopedWith.png
+lSLF07#2@48"Copy iPadCountdown.wdgt/Images/DevelopedWith.png290791207#290791207#0(0"0(0#0#89"/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Images/DevelopedWith.png4300911832#513"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Images/DevelopedWith.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/Icon.png Widgets/iPadCountdown.wdgt/Icon.png
+s290791767.479764
+e290791767.494036
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/Icon.png
+xWidgets/iPadCountdown.wdgt/Icon.png
+lSLF07#2@40"Copy Widgets/iPadCountdown.wdgt/Icon.png290791767#290791767#0(0"0(0#0#81"/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Icon.png4300911832#505"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Icon.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/Icon.png iPadCountdown.wdgt/Icon.png
+s290791207.328013
+e290791207.362193
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/Icon.png
+xiPadCountdown.wdgt/Icon.png
+lSLF07#2@32"Copy iPadCountdown.wdgt/Icon.png290791207#290791207#0(0"0(0#0#73"/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Icon.png4300911832#497"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Icon.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/WidgetButtonFacebook.png WidgetButtonFacebook.png
+s291125031.448332
+e291125031.511706
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/WidgetButtonFacebook.png
+xWidgetButtonFacebook.png
+lSLF07#2@29"Copy WidgetButtonFacebook.png291125031#291125031#0(0"0(0#0#70"/Users/jason/Dropbox/Development/GaugeCluster/WidgetButtonFacebook.png4300911832#494"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/WidgetButtonFacebook.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/WidgetButtonTemplate.acorn WidgetButtonTemplate.acorn
+r0
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/WidgetButtonTwitter.png WidgetButtonTwitter.png
+s291125031.469414
+e291125031.512842
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/WidgetButtonTwitter.png
+xWidgetButtonTwitter.png
+lSLF07#2@28"Copy WidgetButtonTwitter.png291125031#291125031#0(0"0(0#0#69"/Users/jason/Dropbox/Development/GaugeCluster/WidgetButtonTwitter.png4300911832#493"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/WidgetButtonTwitter.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/WidgetButtonWordpress.png WidgetButtonWordpress.png
+s291125031.470132
+e291125031.511832
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/WidgetButtonWordpress.png
+xWidgetButtonWordpress.png
+lSLF07#2@30"Copy WidgetButtonWordpress.png291125031#291125031#0(0"0(0#0#71"/Users/jason/Dropbox/Development/GaugeCluster/WidgetButtonWordpress.png4300911832#495"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/WidgetButtonWordpress.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/back.png Widgets/iPadCountdown.wdgt/Parts/Images/back.png
+s290791767.485995
+e290791767.502706
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/back.png
+xWidgets/iPadCountdown.wdgt/Parts/Images/back.png
+lSLF07#2@53"Copy Widgets/iPadCountdown.wdgt/Parts/Images/back.png290791767#290791767#0(0"0(0#0#94"/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/back.png4300911832#518"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/back.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/back.png iPadCountdown.wdgt/Parts/Images/back.png
+s290791207.352021
+e290791207.373238
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/back.png
+xiPadCountdown.wdgt/Parts/Images/back.png
+lSLF07#2@45"Copy iPadCountdown.wdgt/Parts/Images/back.png290791207#290791207#0(0"0(0#0#86"/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/back.png4300911832#510"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/back.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/buttonback.png buttonback.png
+s291367717.318088
+e291367717.350522
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/buttonback.png
+xbuttonback.png
+lSLF07#2@19"Copy buttonback.png291367717#291367717#0(0"0(0#0#70"/Users/jasongullickson/Dropbox/Development/GaugeCluster/buttonback.png4300911832#514"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jasongullickson/Dropbox/Development/GaugeCluster/buttonback.png /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/front.png Widgets/iPadCountdown.wdgt/Parts/Images/front.png
+s290791767.487544
+e290791767.496952
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/front.png
+xWidgets/iPadCountdown.wdgt/Parts/Images/front.png
+lSLF07#2@54"Copy Widgets/iPadCountdown.wdgt/Parts/Images/front.png290791767#290791767#0(0"0(0#0#95"/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/front.png4300911832#519"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/front.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/front.png iPadCountdown.wdgt/Parts/Images/front.png
+s290791207.354970
+e290791207.375069
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/front.png
+xiPadCountdown.wdgt/Parts/Images/front.png
+lSLF07#2@46"Copy iPadCountdown.wdgt/Parts/Images/front.png290791207#290791207#0(0"0(0#0#87"/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/front.png4300911832#511"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/front.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/license.txt Widgets/iPadCountdown.wdgt/Parts/license.txt
+s290791767.494311
+e290791767.509021
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/license.txt
+xWidgets/iPadCountdown.wdgt/Parts/license.txt
+lSLF07#2@49"Copy Widgets/iPadCountdown.wdgt/Parts/license.txt290791767#290791767#0(0"0(0#0#90"/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/license.txt4300911832#514"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/license.txt /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/license.txt iPadCountdown.wdgt/Parts/license.txt
+s290791207.362326
+e290791207.378700
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/license.txt
+xiPadCountdown.wdgt/Parts/license.txt
+lSLF07#2@41"Copy iPadCountdown.wdgt/Parts/license.txt290791207#290791207#0(0"0(0#0#82"/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/license.txt4300911832#506"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/license.txt /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/main.css Widgets/iPadCountdown.wdgt/main.css
+s290791767.482882
+e290791767.494177
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/main.css
+xWidgets/iPadCountdown.wdgt/main.css
+lSLF07#2@40"Copy Widgets/iPadCountdown.wdgt/main.css290791767#290791767#0(0"0(0#0#81"/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/main.css4300911832#505"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/main.css /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/main.css iPadCountdown.wdgt/main.css
+s290791207.332084
+e290791207.362277
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/main.css
+xiPadCountdown.wdgt/main.css
+lSLF07#2@32"Copy iPadCountdown.wdgt/main.css290791207#290791207#0(0"0(0#0#73"/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/main.css4300911832#497"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/main.css /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/main.html Widgets/iPadCountdown.wdgt/main.html
+s290791767.484462
+e290791767.494262
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/main.html
+xWidgets/iPadCountdown.wdgt/main.html
+lSLF07#2@41"Copy Widgets/iPadCountdown.wdgt/main.html290791767#290791767#0(0"0(0#0#82"/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/main.html4300911832#506"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/main.html /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/main.html iPadCountdown.wdgt/main.html
+s290791207.343626
+e290791207.364729
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/main.html
+xiPadCountdown.wdgt/main.html
+lSLF07#2@33"Copy iPadCountdown.wdgt/main.html290791207#290791207#0(0"0(0#0#74"/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/main.html4300911832#498"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/main.html /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/redbuttonback.png redbuttonback.png
+s291367717.319074
+e291367717.344931
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/redbuttonback.png
+xredbuttonback.png
+lSLF07#2@22"Copy redbuttonback.png291367717#291367717#0(0"0(0#0#73"/Users/jasongullickson/Dropbox/Development/GaugeCluster/redbuttonback.png4300911832#517"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jasongullickson/Dropbox/Development/GaugeCluster/redbuttonback.png /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/timer-bg_left.png Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_left.png
+s290791767.489020
+e290791767.500047
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/timer-bg_left.png
+xWidgets/iPadCountdown.wdgt/Parts/Images/timer-bg_left.png
+lSLF07#2@62"Copy Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_left.png290791767#290791767#0(0"0(0#0#103"/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_left.png4300911832#527"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_left.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/timer-bg_left.png iPadCountdown.wdgt/Parts/Images/timer-bg_left.png
+s290791207.356680
+e290791207.368139
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/timer-bg_left.png
+xiPadCountdown.wdgt/Parts/Images/timer-bg_left.png
+lSLF07#2@54"Copy iPadCountdown.wdgt/Parts/Images/timer-bg_left.png290791207#290791207#0(0"0(0#0#95"/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/timer-bg_left.png4300911832#519"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/timer-bg_left.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/timer-bg_middle.png Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_middle.png
+s290791767.490892
+e290791767.505169
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/timer-bg_middle.png
+xWidgets/iPadCountdown.wdgt/Parts/Images/timer-bg_middle.png
+lSLF07#2@64"Copy Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_middle.png290791767#290791767#0(0"0(0#0#105"/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_middle.png4300911832#529"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_middle.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/timer-bg_middle.png iPadCountdown.wdgt/Parts/Images/timer-bg_middle.png
+s290791207.358379
+e290791207.371270
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/timer-bg_middle.png
+xiPadCountdown.wdgt/Parts/Images/timer-bg_middle.png
+lSLF07#2@56"Copy iPadCountdown.wdgt/Parts/Images/timer-bg_middle.png290791207#290791207#0(0"0(0#0#97"/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/timer-bg_middle.png4300911832#521"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/timer-bg_middle.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/timer-bg_right.png Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_right.png
+s290791767.492388
+e290791767.500329
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/timer-bg_right.png
+xWidgets/iPadCountdown.wdgt/Parts/Images/timer-bg_right.png
+lSLF07#2@63"Copy Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_right.png290791767#290791767#0(0"0(0#0#104"/Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_right.png4300911832#528"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/Widgets/iPadCountdown.wdgt/Parts/Images/timer-bg_right.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CCpResource build/Debug-iphonesimulator/GaugeCluster.app/timer-bg_right.png iPadCountdown.wdgt/Parts/Images/timer-bg_right.png
+s290791207.359986
+e290791207.382655
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GaugeCluster.app/timer-bg_right.png
+xiPadCountdown.wdgt/Parts/Images/timer-bg_right.png
+lSLF07#2@55"Copy iPadCountdown.wdgt/Parts/Images/timer-bg_right.png290791207#290791207#0(0"0(0#0#96"/Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/timer-bg_right.png4300911832#520"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/iPadCountdown.wdgt/Parts/Images/timer-bg_right.png /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CGenerateDSYMFile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app.dSYM /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster
+s291270119.400993
+e291270119.441545
+r1
+xGenerateDSYMFile
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app.dSYM
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/GaugeCluster.app.dSYM build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster291270119#291270119#0(0"0(0#0#103"/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster4300911832#419"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster -o /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app.dSYM0#
+
+CGenerateDSYMFile /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app.dSYM /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster
+s291367721.295451
+e291367721.446563
+r1
+xGenerateDSYMFile
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app.dSYM
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/GaugeCluster.app.dSYM build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster291367721#291367721#0(0"0(0#0#113"/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster4300911832#449"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app.dSYM0#
+
+CLd /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster normal i386
+s291270119.343618
+e291270119.400914
+r1
+xLd
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster
+xnormal
+xi386
+lSLF07#2@108"Link /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster291270119#291270119#0(0"0(0#0#0"28429470871519348#944"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -filelist /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeCluster.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster0#
+
+CLd /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster normal i386
+s291367720.804812
+e291367721.295230
+r1
+xLd
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster
+xnormal
+xi386
+lSLF07#2@118"Link /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster291367720#291367721#0(0"0(0#0#0"4300911832#994"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -filelist /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/Objects-normal/i386/GaugeCluster.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/GaugeCluster0#
+
+CProcessInfoPlistFile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Info.plist GaugeCluster-Info.plist
+s290791798.461604
+e290791798.477097
+r1
+xProcessInfoPlistFile
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Info.plist
+xGaugeCluster-Info.plist
+lSLF07#2@31"Process GaugeCluster-Info.plist290791798#290791798#0(0"0(0#0#69"/Users/jason/Dropbox/Development/GaugeCluster/GaugeCluster-Info.plist4300911832#515"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GaugeCluster-Info.plist -genpkginfo /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Info.plist GaugeCluster-Info.plist
+s291367714.208473
+e291367714.220965
+r1
+xProcessInfoPlistFile
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Info.plist
+xGaugeCluster-Info.plist
+lSLF07#2@31"Process GaugeCluster-Info.plist291367714#291367714#0(0"0(0#0#79"/Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeCluster-Info.plist4300911832#545"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GaugeCluster-Info.plist -genpkginfo /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app/Info.plist0#
+
+CProcessPCH /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-agmxacwwaqkqvldjlseiufwlntpa/GaugeCluster_Prefix.pch.gch GaugeCluster_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s290791799.072912
+e290791800.506899
+r1
+xProcessPCH
+x/var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-agmxacwwaqkqvldjlseiufwlntpa/GaugeCluster_Prefix.pch.gch
+xGaugeCluster_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile GaugeCluster_Prefix.pch290791799#290791800#0(0"0(0#0#69"/Users/jason/Dropbox/Development/GaugeCluster/GaugeCluster_Prefix.pch4300911832#1914"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -c /Users/jason/Dropbox/Development/GaugeCluster/GaugeCluster_Prefix.pch -o /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-agmxacwwaqkqvldjlseiufwlntpa/GaugeCluster_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-bzvrknispqvhkiguvptffkhoumju/GaugeCluster_Prefix.pch.gch GaugeCluster_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s291367717.864164
+e291367719.671328
+r1
+xProcessPCH
+x/var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-bzvrknispqvhkiguvptffkhoumju/GaugeCluster_Prefix.pch.gch
+xGaugeCluster_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile GaugeCluster_Prefix.pch291367717#291367719#0(0"0(0#0#79"/Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeCluster_Prefix.pch4300911832#2014"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/GaugeCluster-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/GaugeCluster.build/Debug-iphonesimulator/GaugeCluster.build/DerivedSources -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeCluster_Prefix.pch -o /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GaugeCluster_Prefix-bzvrknispqvhkiguvptffkhoumju/GaugeCluster_Prefix.pch.gch0#
+
+CTouch /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app
+s291270119.442111
+e291270119.446051
+r1
+xTouch
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app
+lSLF07#2@96"Touch /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app291270119#291270119#0(0"0(0#0#0"4300911832#297"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+
+CTouch /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app
+s291367721.446670
+e291367721.451826
+r1
+xTouch
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app
+lSLF07#2@106"Touch /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app291367721#291367721#0(0"0(0#0#0"4300911832#317"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/GaugeCluster.app0#
+

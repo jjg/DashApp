@@ -1,0 +1,912 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GaugeClusterAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1064, 942}}";
+			sepNavSelRange = "{634, 0}";
+			sepNavVisRange = "{0, 641}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GaugeClusterAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 1144}}";
+			sepNavSelRange = "{1517, 0}";
+			sepNavVisRange = "{259, 2152}";
+			sepNavWindowFrame = "{{38, 271}, {805, 881}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* DashApp */ = {
+		activeExec = 0;
+		executables = (
+			96141BF511551D710050A855 /* DashApp */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GaugeClusterViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1064, 942}}";
+			sepNavSelRange = "{751, 0}";
+			sepNavVisRange = "{0, 960}";
+			sepNavWindowFrame = "{{15, 292}, {805, 881}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 6227}}";
+			sepNavSelRange = "{7937, 0}";
+			sepNavVisRange = "{7274, 1010}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 96141BF511551D710050A855 /* DashApp */;
+		activeSDKPreference = iphoneos3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* DashApp */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* DashApp */,
+		);
+		breakpoints = (
+			96AE49C01155264A00867948 /* GaugeClusterViewController.m:46 */,
+			96AE4A34115537C300867948 /* GaugeClusterViewController.m:46 */,
+			96AE1ADB11579650003B9A32 /* GaugeClusterViewController.m:215 */,
+			96AE1AF311579806003B9A32 /* GaugeClusterViewController.m:212 */,
+			96AE1B0D11579991003B9A32 /* GaugeClusterViewController.m:236 */,
+			9630EB001157FDFE006E028C /* WidgetViewController.m:72 */,
+			9630EB0F1157FE50006E028C /* GaugeClusterViewController.m:171 */,
+			9630EB8311580CC2006E028C /* WidgetView.m:181 */,
+			9637CA0C115923B9008D3924 /* WidgetView.m:21 */,
+			9637CB1E11595C2B008D3924 /* GaugeClusterViewController.m:54 */,
+			9637CB2511595C3E008D3924 /* GaugeClusterAppDelegate.m:59 */,
+			9637CB2B11595C7F008D3924 /* GaugeClusterViewController.m:278 */,
+			9637CB3F11595D9B008D3924 /* GaugeClusterAppDelegate.m:34 */,
+			9637CB5611595ED1008D3924 /* GaugeClusterViewController.m:87 */,
+			9637CB5F11595F10008D3924 /* GaugeClusterViewController.m:86 */,
+			9637CB6111595F3D008D3924 /* GaugeClusterAppDelegate.m:58 */,
+			9637CBCA11596674008D3924 /* GaugeClusterViewController.m:52 */,
+			96D34BF5115A357400A44479 /* AddWidgetViewController.m:89 */,
+			96D34BFB115A359000A44479 /* GaugeClusterViewController.m:221 */,
+			96E40EBE115AC85D004E0446 /* GaugeClusterViewController.m:85 */,
+			96E40ECF115AC8E8004E0446 /* GaugeClusterAppDelegate.m:48 */,
+			96E40F6B115ACE70004E0446 /* GaugeClusterAppDelegate.m:56 */,
+			96E4104D115ADF43004E0446 /* GaugeClusterViewController.m:296 */,
+			96E4106C115AE1B6004E0446 /* AddWidgetViewController.m:51 */,
+			96877E88115DFCEB00163F7E /* WidgetView.m:253 */,
+			96343E8511602A9500683FA4 /* WidgetView.m:80 */,
+			96343EF6116031B200683FA4 /* WidgetView.m:102 */,
+			96343EF8116031B600683FA4 /* WidgetView.m:105 */,
+		);
+		codeSenseManager = 96141C0211551D930050A855 /* Code sense */;
+		executables = (
+			96141BF511551D710050A855 /* DashApp */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					886,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 292043752;
+			PBXWorkspaceStateSaveDate = 292043752;
+		};
+		perUserProjectItems = {
+			9608F8321163F86D00FB6895 /* PBXTextBookmark */ = 9608F8321163F86D00FB6895 /* PBXTextBookmark */;
+			9630EB46115805B3006E028C /* PBXTextBookmark */ = 9630EB46115805B3006E028C /* PBXTextBookmark */;
+			96343E8E11602AD200683FA4 /* PBXTextBookmark */ = 96343E8E11602AD200683FA4 /* PBXTextBookmark */;
+			9637CA04115922B8008D3924 /* PBXTextBookmark */ = 9637CA04115922B8008D3924 /* PBXTextBookmark */;
+			965F525E1168449300100C3D /* PBXTextBookmark */ = 965F525E1168449300100C3D /* PBXTextBookmark */;
+			968B2C00115DBA60002E69AC /* PBXTextBookmark */ = 968B2C00115DBA60002E69AC /* PBXTextBookmark */;
+			96BF78341161995D0096652C /* PBXTextBookmark */ = 96BF78341161995D0096652C /* PBXTextBookmark */;
+			96BF78961161A4640096652C /* PBXTextBookmark */ = 96BF78961161A4640096652C /* PBXTextBookmark */;
+			96D34C1D115A375800A44479 /* PBXBookmark */ = 96D34C1D115A375800A44479 /* PBXBookmark */;
+			96E40E5D115AC1FF004E0446 /* PBXBookmark */ = 96E40E5D115AC1FF004E0446 /* PBXBookmark */;
+			96E40FB3115AD257004E0446 /* PBXTextBookmark */ = 96E40FB3115AD257004E0446 /* PBXTextBookmark */;
+			96E40FC8115AD3AC004E0446 /* PBXTextBookmark */ = 96E40FC8115AD3AC004E0446 /* PBXTextBookmark */;
+			96F01FF311630C48001B98EB /* PBXTextBookmark */ = 96F01FF311630C48001B98EB /* PBXTextBookmark */;
+			96F01FF411630C48001B98EB /* PBXTextBookmark */ = 96F01FF411630C48001B98EB /* PBXTextBookmark */;
+			96F0200411630DE8001B98EB /* PlistBookmark */ = 96F0200411630DE8001B98EB /* PlistBookmark */;
+			96F69D82116820B300EE3C28 /* PBXTextBookmark */ = 96F69D82116820B300EE3C28 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 96141C0111551D930050A855 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 407}}";
+			sepNavSelRange = "{272, 0}";
+			sepNavVisRange = "{0, 371}";
+		};
+	};
+	9608F8321163F86D00FB6895 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		name = "GaugeClusterViewController.m: 271";
+		rLen = 0;
+		rLoc = 7943;
+		rType = 0;
+		vrLen = 2249;
+		vrLoc = 7022;
+	};
+	96141BF511551D710050A855 /* DashApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DashApp;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	96141C0111551D930050A855 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	96141C0211551D930050A855 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9622F1C91156E31000C7E1A0 /* WidgetViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 941}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 248}";
+		};
+	};
+	9622F1CA1156E31000C7E1A0 /* WidgetViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1638}}";
+			sepNavSelRange = "{196, 0}";
+			sepNavVisRange = "{0, 1908}";
+		};
+	};
+	9630EAE61157FC1F006E028C /* AddWidgetViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 941}}";
+			sepNavSelRange = "{527, 0}";
+			sepNavVisRange = "{0, 770}";
+		};
+	};
+	9630EAE71157FC1F006E028C /* AddWidgetViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 2405}}";
+			sepNavSelRange = "{1585, 0}";
+			sepNavVisRange = "{336, 2665}";
+		};
+	};
+	9630EB001157FDFE006E028C /* WidgetViewController.m:72 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9622F1CA1156E31000C7E1A0 /* WidgetViewController.m */;
+		functionName = "-touchesEnded:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 72;
+		location = GaugeCluster;
+		modificationTime = 292043884.280253;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9630EB0F1157FE50006E028C /* GaugeClusterViewController.m:171 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-touchesEnded:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 171;
+		location = GaugeCluster;
+		modificationTime = 292043884.280264;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9630EB46115805B3006E028C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9622F1C91156E31000C7E1A0 /* WidgetViewController.h */;
+		name = "WidgetViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 248;
+		vrLoc = 0;
+	};
+	9630EB8311580CC2006E028C /* WidgetView.m:181 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = BEC9F1BC11570B03005D16D5 /* WidgetView.m */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 181;
+		location = GaugeCluster;
+		modificationTime = 292043884.280274;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	96343E8511602A9500683FA4 /* WidgetView.m:80 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = BEC9F1BC11570B03005D16D5 /* WidgetView.m */;
+		functionName = "-webView:shouldStartLoadWithRequest:navigationType:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 80;
+		location = DashApp;
+		modificationTime = 292043884.28059;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	96343E8E11602AD200683FA4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GaugeClusterAppDelegate.m */;
+		name = "GaugeClusterAppDelegate.m: 56";
+		rLen = 0;
+		rLoc = 1517;
+		rType = 0;
+		vrLen = 2152;
+		vrLoc = 259;
+	};
+	96343EF6116031B200683FA4 /* WidgetView.m:102 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = BEC9F1BC11570B03005D16D5 /* WidgetView.m */;
+		functionName = "-alertView:clickedButtonAtIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 102;
+		modificationTime = 292043884.280601;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	96343EF8116031B600683FA4 /* WidgetView.m:105 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = BEC9F1BC11570B03005D16D5 /* WidgetView.m */;
+		functionName = "-alertView:clickedButtonAtIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 105;
+		location = DashApp;
+		modificationTime = 292043884.280613;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9637CA04115922B8008D3924 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9622F1CA1156E31000C7E1A0 /* WidgetViewController.m */;
+		name = "WidgetViewController.m: 9";
+		rLen = 0;
+		rLoc = 196;
+		rType = 0;
+		vrLen = 1908;
+		vrLoc = 0;
+	};
+	9637CA0C115923B9008D3924 /* WidgetView.m:21 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = BEC9F1BC11570B03005D16D5 /* WidgetView.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 21;
+		location = GaugeCluster;
+		modificationTime = 292043884.280285;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9637CB1E11595C2B008D3924 /* GaugeClusterViewController.m:54 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 54;
+		location = GaugeCluster;
+		modificationTime = 292043884.280292;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9637CB2511595C3E008D3924 /* GaugeClusterAppDelegate.m:59 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* GaugeClusterAppDelegate.m */;
+		functionName = "-applicationWillTerminate:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 59;
+		location = GaugeCluster;
+		modificationTime = 292043884.280298;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9637CB2B11595C7F008D3924 /* GaugeClusterViewController.m:278 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-AddWidget:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 278;
+		location = GaugeCluster;
+		modificationTime = 292043884.280307;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9637CB3F11595D9B008D3924 /* GaugeClusterAppDelegate.m:34 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* GaugeClusterAppDelegate.m */;
+		functionName = "-applicationWillTerminate:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 34;
+		location = GaugeCluster;
+		modificationTime = 292043884.280314;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9637CB5611595ED1008D3924 /* GaugeClusterViewController.m:87 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 87;
+		location = GaugeCluster;
+		modificationTime = 292043884.280323;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9637CB5F11595F10008D3924 /* GaugeClusterViewController.m:86 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 86;
+		modificationTime = 292043884.280331;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	9637CB6111595F3D008D3924 /* GaugeClusterAppDelegate.m:58 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* GaugeClusterAppDelegate.m */;
+		functionName = "-applicationWillTerminate:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 58;
+		location = GaugeCluster;
+		modificationTime = 292043884.280337;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	9637CBCA11596674008D3924 /* GaugeClusterViewController.m:52 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 52;
+		location = GaugeCluster;
+		modificationTime = 292043884.280347;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	965F525E1168449300100C3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9630EAE71157FC1F006E028C /* AddWidgetViewController.m */;
+		name = "AddWidgetViewController.m: 49";
+		rLen = 0;
+		rLoc = 1585;
+		rType = 0;
+		vrLen = 2665;
+		vrLoc = 336;
+	};
+	96877E88115DFCEB00163F7E /* WidgetView.m:253 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = BEC9F1BC11570B03005D16D5 /* WidgetView.m */;
+		functionName = "-dealloc";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 253;
+		location = DashApp;
+		modificationTime = 292043884.280578;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	968B2C00115DBA60002E69AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9630EAE61157FC1F006E028C /* AddWidgetViewController.h */;
+		name = "AddWidgetViewController.h: 20";
+		rLen = 0;
+		rLoc = 527;
+		rType = 0;
+		vrLen = 770;
+		vrLoc = 0;
+	};
+	96AE1ADB11579650003B9A32 /* GaugeClusterViewController.m:215 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-AddWidget:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 215;
+		location = GaugeCluster;
+		modificationTime = 292043884.280219;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	96AE1AF311579806003B9A32 /* GaugeClusterViewController.m:212 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-AddWidget:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 212;
+		location = GaugeCluster;
+		modificationTime = 292043884.280232;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	96AE1B0D11579991003B9A32 /* GaugeClusterViewController.m:236 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-AddWidget:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 236;
+		location = GaugeCluster;
+		modificationTime = 292043884.280243;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	96AE49C01155264A00867948 /* GaugeClusterViewController.m:46 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 46;
+		location = GaugeCluster;
+		modificationTime = 292043884.28014;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	96AE4A34115537C300867948 /* GaugeClusterViewController.m:46 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 46;
+		location = GaugeCluster;
+		modificationTime = 292043884.280205;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	96BF78341161995D0096652C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GaugeClusterAppDelegate.h */;
+		name = "GaugeClusterAppDelegate.h: 24";
+		rLen = 0;
+		rLoc = 634;
+		rType = 0;
+		vrLen = 641;
+		vrLoc = 0;
+	};
+	96BF78961161A4640096652C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEC9F1BB11570B03005D16D5 /* WidgetView.h */;
+		name = "WidgetView.h: 28";
+		rLen = 0;
+		rLoc = 730;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 0;
+	};
+	96D34BF5115A357400A44479 /* AddWidgetViewController.m:89 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9630EAE71157FC1F006E028C /* AddWidgetViewController.m */;
+		functionName = "-addWidget:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 89;
+		location = GaugeCluster;
+		modificationTime = 292043884.280354;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	96D34BFB115A359000A44479 /* GaugeClusterViewController.m:221 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-AddWidget:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 221;
+		location = GaugeCluster;
+		modificationTime = 292043884.280458;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	96D34C1D115A375800A44479 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	96E40E5D115AC1FF004E0446 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	96E40E71115AC34C004E0446 /* WidgetStorageClass.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {959, 916}}";
+			sepNavSelRange = "{449, 0}";
+			sepNavVisRange = "{0, 455}";
+		};
+	};
+	96E40E72115AC34C004E0446 /* WidgetStorageClass.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {995, 442}}";
+			sepNavSelRange = "{256, 0}";
+			sepNavVisRange = "{0, 668}";
+		};
+	};
+	96E40EBE115AC85D004E0446 /* GaugeClusterViewController.m:85 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 85;
+		location = GaugeCluster;
+		modificationTime = 292043884.280471;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	96E40ECF115AC8E8004E0446 /* GaugeClusterAppDelegate.m:48 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* GaugeClusterAppDelegate.m */;
+		functionName = "-applicationWillTerminate:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 48;
+		location = GaugeCluster;
+		modificationTime = 292043884.280483;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	96E40F6B115ACE70004E0446 /* GaugeClusterAppDelegate.m:56 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* GaugeClusterAppDelegate.m */;
+		functionName = "-applicationWillTerminate:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 56;
+		location = GaugeCluster;
+		modificationTime = 292043884.280494;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	96E40FB3115AD257004E0446 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96E40E71115AC34C004E0446 /* WidgetStorageClass.h */;
+		name = "WidgetStorageClass.h: 22";
+		rLen = 0;
+		rLoc = 449;
+		rType = 0;
+		vrLen = 455;
+		vrLoc = 0;
+	};
+	96E40FC8115AD3AC004E0446 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 96E40E72115AC34C004E0446 /* WidgetStorageClass.m */;
+		name = "WidgetStorageClass.m: 24";
+		rLen = 0;
+		rLoc = 485;
+		rType = 0;
+		vrLen = 673;
+		vrLoc = 0;
+	};
+	96E4104D115ADF43004E0446 /* GaugeClusterViewController.m:296 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GaugeClusterViewController.m */;
+		functionName = "-handle_widgetAdd:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 296;
+		location = GaugeCluster;
+		modificationTime = 292043884.280504;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	96E4106C115AE1B6004E0446 /* AddWidgetViewController.m:51 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 9630EAE71157FC1F006E028C /* AddWidgetViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 51;
+		location = GaugeCluster;
+		modificationTime = 292043884.280515;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	96F01FF311630C48001B98EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GaugeClusterViewController.h */;
+		name = "GaugeClusterViewController.h: 28";
+		rLen = 0;
+		rLoc = 751;
+		rType = 0;
+		vrLen = 960;
+		vrLoc = 0;
+	};
+	96F01FF411630C48001B98EB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEC9F1BC11570B03005D16D5 /* WidgetView.m */;
+		name = "WidgetView.m: 88";
+		rLen = 0;
+		rLoc = 2805;
+		rType = 0;
+		vrLen = 2425;
+		vrLoc = 260;
+	};
+	96F0200411630DE8001B98EB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* DashApp-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/jason/Dropbox/Development/GaugeCluster/DashApp-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	96F69D82116820B300EE3C28 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9630EAE71157FC1F006E028C /* AddWidgetViewController.m */;
+		name = "AddWidgetViewController.m: 53";
+		rLen = 0;
+		rLoc = 1790;
+		rType = 0;
+		vrLen = 2665;
+		vrLoc = 336;
+	};
+	BEC9F1BB11570B03005D16D5 /* WidgetView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1064, 917}}";
+			sepNavSelRange = "{730, 0}";
+			sepNavVisRange = "{0, 755}";
+		};
+	};
+	BEC9F1BC11570B03005D16D5 /* WidgetView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1762, 3393}}";
+			sepNavSelRange = "{2805, 0}";
+			sepNavVisRange = "{260, 2425}";
+		};
+	};
+}

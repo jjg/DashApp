@@ -1,0 +1,1313 @@
+TDashApp
+v7
+r0
+t298875186.063173
+cCheck dependencies
+cProcessInfoPlistFile /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/Info.plist DashApp-Info.plist
+cCompileXIB /Users/jasongullickson/Desktop/DashApp/MainWindow.xib
+cCompileXIB /Users/jasongullickson/Desktop/DashApp/GaugeClusterViewController.xib
+cCompileXIB /Users/jasongullickson/Desktop/DashApp/Classes/WidgetViewController.xib
+cCompileXIB /Users/jasongullickson/Desktop/DashApp/Classes/AddWidgetViewController.xib
+cCpResource build/Debug-iphonesimulator/DashApp.app/buttonback.png buttonback.png
+cCpResource build/Debug-iphonesimulator/DashApp.app/redbuttonback.png redbuttonback.png
+cCpResource build/Debug-iphonesimulator/DashApp.app/DashAppIcon72.png DashAppIcon72.png
+cCpResource build/Debug-iphonesimulator/DashApp.app/DashApp72.png DashApp72.png
+cProcessPCH /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-fhyfosminfqgcggoxpufyyofihoq/DashApp_Prefix.pch.gch DashApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/main.o /Users/jasongullickson/Desktop/DashApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o /Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o /Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o /Users/jasongullickson/Desktop/DashApp/Classes/WidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o /Users/jasongullickson/Desktop/DashApp/Classes/WidgetView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o /Users/jasongullickson/Desktop/DashApp/Classes/AddWidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o /Users/jasongullickson/Desktop/DashApp/Classes/WidgetStorageClass.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/DashApp normal i386
+cGenerateDSYMFile /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app.dSYM /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/DashApp
+cTouch /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BA1B0CE0000000000000110
+t1268887758
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B9F1DB3000000000026F020
+t1268719027
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B9F26A3000000000000007D
+t1268721315
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B9F27B9000000000011BF20
+t1268721593
+s1163040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F30E7000000000000098F
+t1268723943
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h
+c000000004B9F30E70000000000000833
+t1268723943
+s2099
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F3183000000000214E400
+t1268724099
+s34923520
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.h
+c000000004BADAC88000000000000036E
+t1269673096
+s878
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m
+c000000004BB3C1180000000000001749
+t1270071576
+s5961
+i"AddWidgetViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+c000000004BADAC9B0000000000007620
+t1269673115
+s30240
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.h
+c000000004BAA97C30000000000000281
+t1269471171
+s641
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m
+c000000004BAA97E10000000000000971
+t1269471201
+s2417
+i"GaugeClusterAppDelegate.h"
+i"GaugeClusterViewController.h"
+i"WidgetView.h"
+i"WidgetStorageClass.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.h
+c000000004BB2D2C400000000000003C0
+t1270010564
+s960
+i<UIKit/UIKit.h>
+i<UIKit/UIWebView.h>
+i"WidgetStorageClass.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m
+c000000004BB3BFE1000000000000322F
+t1270071265
+s12847
+i"GaugeClusterViewController.h"
+i"WidgetView.h"
+i"AddWidgetViewController.h"
+i"WidgetStorageClass.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.h
+c000000004BAA998D00000000000001C7
+t1269471629
+s455
+i<Foundation/Foundation.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m
+c000000004BAA9BAB00000000000002A1
+t1269472171
+s673
+i"WidgetStorageClass.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.h
+c000000004BB16C3900000000000002F3
+t1269918777
+s755
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m
+c000000004BB176230000000000001E1E
+t1269921315
+s7710
+i"WidgetView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.h
+c000000004BA6AB9000000000000000F8
+t1269214096
+s248
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m
+c000000004BA7C6B80000000000000C54
+t1269286584
+s3156
+i"WidgetViewController.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+c000000004BA6B1340000000000003F1B
+t1269215540
+s16155
+
+N/Users/jason/Dropbox/Development/GaugeCluster/DashApp72.png
+c000000004BB2D56F0000000000000FA0
+t1270011247
+s4000
+
+N/Users/jason/Dropbox/Development/GaugeCluster/DashAppIcon72.png
+c000000004BADC2EE0000000000000E11
+t1269678830
+s3601
+
+N/Users/jason/Dropbox/Development/GaugeCluster/DashApp_Prefix.pch
+c000000004B9EF22D00000000000000C1
+t1268707885
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+c000000004BAD8E410000000000004845
+t1269665345
+s18501
+
+N/Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib
+c000000004B9EF22C0000000000004D3B
+t1268707884
+s19771
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/DashApp.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app.dSYM
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/AddWidgetViewController.nib
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp72.png
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashAppIcon72.png
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/GaugeClusterViewController.nib
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/Info.plist
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/MainWindow.nib
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/PkgInfo
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/WidgetViewController.nib
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/buttonback.png
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/redbuttonback.png
+t2
+s0
+
+N/Users/jason/Dropbox/Development/GaugeCluster/buttonback.png
+c000000004BAD99A00000000000000894
+t1269668256
+s2196
+
+N/Users/jason/Dropbox/Development/GaugeCluster/main.m
+c000000004B9EF22D0000000000000173
+t1268707885
+s371
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/redbuttonback.png
+c000000004BAD9A5D000000000000063F
+t1269668445
+s1599
+
+N/Users/jasongullickson/Desktop/DashApp/Classes/AddWidgetViewController.h
+c000000004BADAC88000000000000036E
+t1269673096
+s878
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Desktop/DashApp/Classes/AddWidgetViewController.m
+c000000004BB3C1180000000000001749
+t1270071576
+s5961
+i"AddWidgetViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jasongullickson/Desktop/DashApp/Classes/AddWidgetViewController.xib
+c000000004BADAC9B0000000000007620
+t1269673115
+s30240
+
+N/Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterAppDelegate.h
+c000000004BAA97C30000000000000281
+t1269471171
+s641
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterAppDelegate.m
+c000000004BAA97E10000000000000971
+t1269471201
+s2417
+i"GaugeClusterAppDelegate.h"
+i"GaugeClusterViewController.h"
+i"WidgetView.h"
+i"WidgetStorageClass.h"
+
+N/Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterViewController.h
+c000000004BB2D2C400000000000003C0
+t1270010564
+s960
+i<UIKit/UIKit.h>
+i<UIKit/UIWebView.h>
+i"WidgetStorageClass.h"
+
+N/Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterViewController.m
+c000000004BB3BFE1000000000000322F
+t1270071265
+s12847
+i"GaugeClusterViewController.h"
+i"WidgetView.h"
+i"AddWidgetViewController.h"
+i"WidgetStorageClass.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jasongullickson/Desktop/DashApp/Classes/WidgetStorageClass.h
+c000000004BAA998D00000000000001C7
+t1269471629
+s455
+i<Foundation/Foundation.h>
+
+N/Users/jasongullickson/Desktop/DashApp/Classes/WidgetStorageClass.m
+c000000004BAA9BAB00000000000002A1
+t1269472171
+s673
+i"WidgetStorageClass.h"
+
+N/Users/jasongullickson/Desktop/DashApp/Classes/WidgetView.h
+c000000004BB16C3900000000000002F3
+t1269918777
+s755
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Desktop/DashApp/Classes/WidgetView.m
+c000000004BB176230000000000001E1E
+t1269921315
+s7710
+i"WidgetView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jasongullickson/Desktop/DashApp/Classes/WidgetViewController.h
+c000000004BA6AB9000000000000000F8
+t1269214096
+s248
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Desktop/DashApp/Classes/WidgetViewController.m
+c000000004BA7C6B80000000000000C54
+t1269286584
+s3156
+i"WidgetViewController.h"
+
+N/Users/jasongullickson/Desktop/DashApp/Classes/WidgetViewController.xib
+c000000004BA6B1340000000000003F1B
+t1269215540
+s16155
+
+N/Users/jasongullickson/Desktop/DashApp/DashApp72.png
+c000000004BB2D56F0000000000000FA0
+t1270011247
+s4000
+
+N/Users/jasongullickson/Desktop/DashApp/DashAppIcon72.png
+c000000004BADC2EE0000000000000E11
+t1269678830
+s3601
+
+N/Users/jasongullickson/Desktop/DashApp/DashApp_Prefix.pch
+c000000004B9EF22D00000000000000C1
+t1268707885
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Desktop/DashApp/GaugeClusterViewController.xib
+c000000004BAD8E410000000000004845
+t1269665345
+s18501
+
+N/Users/jasongullickson/Desktop/DashApp/MainWindow.xib
+c000000004B9EF22C0000000000004D3B
+t1268707884
+s19771
+
+N/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o
+t1277182382
+s49596
+
+N/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/DashApp.LinkFileList
+c000000004C20417200000000000003B6
+t1277182322
+s950
+
+N/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o
+t1277182381
+s49272
+
+N/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o
+t1277182381
+s60040
+
+N/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o
+t1277182382
+s11244
+
+N/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o
+t1277182382
+s43848
+
+N/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o
+t1277182382
+s36740
+
+N/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/main.o
+t1277182381
+s5944
+
+N/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app
+t1277182386
+s442
+
+N/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app.dSYM
+t1277182385
+s102
+
+N/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/AddWidgetViewController.nib
+t1277182375
+s2844
+
+N/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/DashApp
+t1277182385
+s55200
+
+N/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/DashApp72.png
+t1277182372
+s4000
+
+N/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/DashAppIcon72.png
+t1277182372
+s3601
+
+N/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/GaugeClusterViewController.nib
+t1277182365
+s769
+
+N/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/Info.plist
+t1277182322
+s848
+
+N/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/MainWindow.nib
+t1277182365
+s1127
+
+N/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/PkgInfo
+t1277182322
+s8
+
+N/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/WidgetViewController.nib
+t1277182372
+s800
+
+N/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/buttonback.png
+t1277182372
+s2196
+
+N/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/redbuttonback.png
+t1277182372
+s1599
+
+N/Users/jasongullickson/Desktop/DashApp/buttonback.png
+c000000004BAD99A00000000000000894
+t1269668256
+s2196
+
+N/Users/jasongullickson/Desktop/DashApp/main.m
+c000000004C20410E0000000000000173
+t1277182222
+s371
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Desktop/DashApp/redbuttonback.png
+c000000004BAD9A5D000000000000063F
+t1269668445
+s1599
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.h
+c000000004BADAC88000000000000036E
+t1269673096
+s878
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m
+c000000004BB3C1180000000000001749
+t1270071576
+s5961
+i"AddWidgetViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+c000000004BADAC9B0000000000007620
+t1269673115
+s30240
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.h
+c000000004BAA97C30000000000000281
+t1269471171
+s641
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m
+c000000004BAA97E10000000000000971
+t1269471201
+s2417
+i"GaugeClusterAppDelegate.h"
+i"GaugeClusterViewController.h"
+i"WidgetView.h"
+i"WidgetStorageClass.h"
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.h
+c000000004BB2D2C400000000000003C0
+t1270010564
+s960
+i<UIKit/UIKit.h>
+i<UIKit/UIWebView.h>
+i"WidgetStorageClass.h"
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m
+c000000004BB3BFE1000000000000322F
+t1270071265
+s12847
+i"GaugeClusterViewController.h"
+i"WidgetView.h"
+i"AddWidgetViewController.h"
+i"WidgetStorageClass.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.h
+c000000004BAA998D00000000000001C7
+t1269471629
+s455
+i<Foundation/Foundation.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m
+c000000004BAA9BAB00000000000002A1
+t1269472171
+s673
+i"WidgetStorageClass.h"
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.h
+c000000004BB16C3900000000000002F3
+t1269918777
+s755
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.m
+c000000004BB176230000000000001E1E
+t1269921315
+s7710
+i"WidgetView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.h
+c000000004BA6AB9000000000000000F8
+t1269214096
+s248
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m
+c000000004BA7C6B80000000000000C54
+t1269286584
+s3156
+i"WidgetViewController.h"
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+c000000004BA6B1340000000000003F1B
+t1269215540
+s16155
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/DashApp72.png
+c000000004BB2D56F0000000000000FA0
+t1270011247
+s4000
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/DashAppIcon72.png
+c000000004BADC2EE0000000000000E11
+t1269678830
+s3601
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/DashApp_Prefix.pch
+c000000004B9EF22D00000000000000C1
+t1268707885
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+c000000004BAD8E410000000000004845
+t1269665345
+s18501
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/MainWindow.xib
+c000000004B9EF22C0000000000004D3B
+t1268707884
+s19771
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o
+t1270088264
+s49628
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/DashApp.LinkFileList
+c000000004BB40224000000000000042D
+t1270088228
+s1069
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o
+t1270088260
+s49304
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o
+t1270088263
+s60072
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o
+t1270088264
+s11276
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o
+t1270088263
+s43880
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o
+t1270088263
+s36772
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/main.o
+t1270088260
+s5976
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app
+t1270088265
+s442
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app.dSYM
+t1270088265
+s102
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/AddWidgetViewController.nib
+t1270088257
+s2845
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp
+t1270088265
+s55440
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp72.png
+t1270088254
+s4000
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashAppIcon72.png
+t1270088254
+s3601
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/GaugeClusterViewController.nib
+t1270088250
+s769
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/Info.plist
+t1270088229
+s848
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/MainWindow.nib
+t1270088250
+s1127
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/PkgInfo
+t1270088229
+s8
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/WidgetViewController.nib
+t1270088254
+s800
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/buttonback.png
+t1270088254
+s2196
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/redbuttonback.png
+t1270088254
+s1599
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/buttonback.png
+c000000004BAD99A00000000000000894
+t1269668256
+s2196
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/main.m
+c000000004B9EF22D0000000000000173
+t1268707885
+s371
+i<UIKit/UIKit.h>
+
+N/Users/jasongullickson/Dropbox/Development/GaugeCluster/redbuttonback.png
+c000000004BAD9A5D000000000000063F
+t1269668445
+s1599
+
+N/var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-agmxacwwaqkqvldjlseiufwlntpa/DashApp_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bzvrknispqvhkiguvptffkhoumju/DashApp_Prefix.pch.gch
+t1269809196
+s13805456
+
+N/var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-fhyfosminfqgcggoxpufyyofihoq/DashApp_Prefix.pch.gch
+t1277182379
+s13805456
+
+NDashApp-Info.plist
+c000000004BB2D58E00000000000004C2
+t1270011278
+s1218
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298875121#298875122#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291764376.718547
+e291764376.888488
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m291764376#291764376#0(0"0(0#0#79"/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m4300911832#1980"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-agmxacwwaqkqvldjlseiufwlntpa/DashApp_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o /Users/jasongullickson/Desktop/DashApp/Classes/AddWidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298875182.660243
+e298875182.769395
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o
+x/Users/jasongullickson/Desktop/DashApp/Classes/AddWidgetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/jasongullickson/Desktop/DashApp/Classes/AddWidgetViewController.m298875182#298875182#0(0"0(0#0#72"/Users/jasongullickson/Desktop/DashApp/Classes/AddWidgetViewController.m4300911832#1903"    cd /Users/jasongullickson/Desktop/DashApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator -I/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-fhyfosminfqgcggoxpufyyofihoq/DashApp_Prefix.pch -c /Users/jasongullickson/Desktop/DashApp/Classes/AddWidgetViewController.m -o /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291781063.845710
+e291781064.027870
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m291781063#291781064#0(0"0(0#0#89"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m4300911832#2090"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bzvrknispqvhkiguvptffkhoumju/DashApp_Prefix.pch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291763865.225077
+e291763865.305410
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m291763865#291763865#0(0"0(0#0#79"/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m4300911832#1980"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-agmxacwwaqkqvldjlseiufwlntpa/DashApp_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o /Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298875181.415503
+e298875181.515060
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o
+x/Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterAppDelegate.m298875181#298875181#0(0"0(0#0#72"/Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterAppDelegate.m4300911832#1903"    cd /Users/jasongullickson/Desktop/DashApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator -I/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-fhyfosminfqgcggoxpufyyofihoq/DashApp_Prefix.pch -c /Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterAppDelegate.m -o /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291781060.248054
+e291781060.731243
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m291781060#291781060#0(0"0(0#0#89"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m4300911832#2090"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bzvrknispqvhkiguvptffkhoumju/DashApp_Prefix.pch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291764065.966418
+e291764066.262305
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m291764065#291764066#0(0"0(0#0#82"/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m4300911832#1986"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-agmxacwwaqkqvldjlseiufwlntpa/DashApp_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o /Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298875181.515203
+e298875181.981549
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o
+x/Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterViewController.m298875181#298875181#0(0"0(0#0#75"/Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterViewController.m4300911832#1909"    cd /Users/jasongullickson/Desktop/DashApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator -I/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-fhyfosminfqgcggoxpufyyofihoq/DashApp_Prefix.pch -c /Users/jasongullickson/Desktop/DashApp/Classes/GaugeClusterViewController.m -o /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291781060.731363
+e291781063.381469
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m291781060#291781063#0(0"0(0#0#92"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m4300911832#2096"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bzvrknispqvhkiguvptffkhoumju/DashApp_Prefix.pch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291763865.494415
+e291763865.547618
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m291763865#291763865#0(0"0(0#0#74"/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m4300911832#1970"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-agmxacwwaqkqvldjlseiufwlntpa/DashApp_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o /Users/jasongullickson/Desktop/DashApp/Classes/WidgetStorageClass.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298875182.769520
+e298875182.842834
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o
+x/Users/jasongullickson/Desktop/DashApp/Classes/WidgetStorageClass.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/jasongullickson/Desktop/DashApp/Classes/WidgetStorageClass.m298875182#298875182#0(0"0(0#0#67"/Users/jasongullickson/Desktop/DashApp/Classes/WidgetStorageClass.m4300911832#1893"    cd /Users/jasongullickson/Desktop/DashApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator -I/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-fhyfosminfqgcggoxpufyyofihoq/DashApp_Prefix.pch -c /Users/jasongullickson/Desktop/DashApp/Classes/WidgetStorageClass.m -o /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291781064.027996
+e291781064.346640
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m291781064#291781064#0(0"0(0#0#84"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m4300911832#2080"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bzvrknispqvhkiguvptffkhoumju/DashApp_Prefix.pch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291763865.380496
+e291763865.494216
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m291763865#291763865#0(0"0(0#0#66"/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m4300911832#1954"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-agmxacwwaqkqvldjlseiufwlntpa/DashApp_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o /Users/jasongullickson/Desktop/DashApp/Classes/WidgetView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298875182.498564
+e298875182.660115
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o
+x/Users/jasongullickson/Desktop/DashApp/Classes/WidgetView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/jasongullickson/Desktop/DashApp/Classes/WidgetView.m298875182#298875182#0(0"0(0#0#59"/Users/jasongullickson/Desktop/DashApp/Classes/WidgetView.m4300911832#1877"    cd /Users/jasongullickson/Desktop/DashApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator -I/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-fhyfosminfqgcggoxpufyyofihoq/DashApp_Prefix.pch -c /Users/jasongullickson/Desktop/DashApp/Classes/WidgetView.m -o /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291781063.647602
+e291781063.845578
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.m291781063#291781063#0(0"0(0#0#76"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.m4300911832#2064"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bzvrknispqvhkiguvptffkhoumju/DashApp_Prefix.pch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetView.m -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291763865.305497
+e291763865.380400
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m291763865#291763865#0(0"0(0#0#76"/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m4300911832#1974"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-agmxacwwaqkqvldjlseiufwlntpa/DashApp_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o /Users/jasongullickson/Desktop/DashApp/Classes/WidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298875181.981672
+e298875182.498181
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o
+x/Users/jasongullickson/Desktop/DashApp/Classes/WidgetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/jasongullickson/Desktop/DashApp/Classes/WidgetViewController.m298875181#298875182#0(0"0(0#0#69"/Users/jasongullickson/Desktop/DashApp/Classes/WidgetViewController.m4300911832#1897"    cd /Users/jasongullickson/Desktop/DashApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator -I/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-fhyfosminfqgcggoxpufyyofihoq/DashApp_Prefix.pch -c /Users/jasongullickson/Desktop/DashApp/Classes/WidgetViewController.m -o /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291781063.381723
+e291781063.647477
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m291781063#291781063#0(0"0(0#0#86"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m4300911832#2084"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bzvrknispqvhkiguvptffkhoumju/DashApp_Prefix.pch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/main.o /Users/jason/Dropbox/Development/GaugeCluster/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291763865.223895
+e291763865.277193
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/main.o
+x/Users/jason/Dropbox/Development/GaugeCluster/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/jason/Dropbox/Development/GaugeCluster/main.m291763865#291763865#0(0"0(0#0#52"/Users/jason/Dropbox/Development/GaugeCluster/main.m4300911832#1934"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-agmxacwwaqkqvldjlseiufwlntpa/DashApp_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/main.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/main.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/main.o /Users/jasongullickson/Desktop/DashApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298875180.971314
+e298875181.415376
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/main.o
+x/Users/jasongullickson/Desktop/DashApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/jasongullickson/Desktop/DashApp/main.m298875180#298875181#0(0"0(0#0#45"/Users/jasongullickson/Desktop/DashApp/main.m4300911832#1857"    cd /Users/jasongullickson/Desktop/DashApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator -I/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-fhyfosminfqgcggoxpufyyofihoq/DashApp_Prefix.pch -c /Users/jasongullickson/Desktop/DashApp/main.m -o /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/main.o0#
+
+CCompileC build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/main.o /Users/jasongullickson/Dropbox/Development/GaugeCluster/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291781058.025523
+e291781060.247833
+r1
+xCompileC
+xbuild/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/main.o
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/main.m291781058#291781060#0(0"0(0#0#62"/Users/jasongullickson/Dropbox/Development/GaugeCluster/main.m4300911832#2044"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -include /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bzvrknispqvhkiguvptffkhoumju/DashApp_Prefix.pch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/main.m -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+s291763864.003436
+e291763864.569759
+r1
+xCompileXIB
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+lSLF07#2@46"CompileXIB Classes/AddWidgetViewController.xib291763864#291763864#0(0"0(0#0#81"/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib4300911832#535"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/AddWidgetViewController.nib /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib0#
+
+CCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+s291763863.967464
+e291763864.277023
+r1
+xCompileXIB
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+lSLF07#2@43"CompileXIB Classes/WidgetViewController.xib291763863#291763864#0(0"0(0#0#78"/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib4300911832#529"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/WidgetViewController.nib /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib0#
+
+CCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+s291763863.511578
+e291763864.003362
+r1
+xCompileXIB
+x/Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+lSLF07#2@41"CompileXIB GaugeClusterViewController.xib291763863#291763864#0(0"0(0#0#76"/Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib31244212045611056#533"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/GaugeClusterViewController.nib /Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib0#
+
+CCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib
+s291763863.510734
+e291763863.967394
+r1
+xCompileXIB
+x/Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib291763863#291763863#0(0"0(0#0#60"/Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib4300911832#501"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/MainWindow.nib /Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib0#
+
+CCompileXIB /Users/jasongullickson/Desktop/DashApp/Classes/AddWidgetViewController.xib
+s298875166.007247
+e298875175.901722
+r1
+xCompileXIB
+x/Users/jasongullickson/Desktop/DashApp/Classes/AddWidgetViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@46"CompileXIB Classes/AddWidgetViewController.xib298875166#298875175#0(252"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#74"/Users/jasongullickson/Desktop/DashApp/Classes/AddWidgetViewController.xib4300911832#514"    cd /Users/jasongullickson/Desktop/DashApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/AddWidgetViewController.nib /Users/jasongullickson/Desktop/DashApp/Classes/AddWidgetViewController.xib0#
+
+CCompileXIB /Users/jasongullickson/Desktop/DashApp/Classes/WidgetViewController.xib
+s298875166.005892
+e298875172.839760
+r1
+xCompileXIB
+x/Users/jasongullickson/Desktop/DashApp/Classes/WidgetViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@43"CompileXIB Classes/WidgetViewController.xib298875166#298875172#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#71"/Users/jasongullickson/Desktop/DashApp/Classes/WidgetViewController.xib18859334547341416#508"    cd /Users/jasongullickson/Desktop/DashApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/WidgetViewController.nib /Users/jasongullickson/Desktop/DashApp/Classes/WidgetViewController.xib0#
+
+CCompileXIB /Users/jasongullickson/Desktop/DashApp/GaugeClusterViewController.xib
+s298875122.627749
+e298875166.007166
+r1
+xCompileXIB
+x/Users/jasongullickson/Desktop/DashApp/GaugeClusterViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@41"CompileXIB GaugeClusterViewController.xib298875122#298875166#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#69"/Users/jasongullickson/Desktop/DashApp/GaugeClusterViewController.xib4300911832#512"    cd /Users/jasongullickson/Desktop/DashApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/GaugeClusterViewController.nib /Users/jasongullickson/Desktop/DashApp/GaugeClusterViewController.xib0#
+
+CCompileXIB /Users/jasongullickson/Desktop/DashApp/MainWindow.xib
+s298875122.573636
+e298875166.005686
+r1
+xCompileXIB
+x/Users/jasongullickson/Desktop/DashApp/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib298875122#298875166#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#53"/Users/jasongullickson/Desktop/DashApp/MainWindow.xib4300911832#480"    cd /Users/jasongullickson/Desktop/DashApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/MainWindow.nib /Users/jasongullickson/Desktop/DashApp/MainWindow.xib0#
+
+CCompileXIB /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+s291781050.881963
+e291781058.007380
+r1
+xCompileXIB
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+lSLF07#2@46"CompileXIB Classes/AddWidgetViewController.xib291781050#291781058#0(0"0(0#0#91"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib4300911832#565"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/AddWidgetViewController.nib /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib0#
+
+CCompileXIB /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+s291781050.684813
+e291781054.193923
+r1
+xCompileXIB
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+lSLF07#2@43"CompileXIB Classes/WidgetViewController.xib291781050#291781054#0(0"0(0#0#88"/Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib4300911832#559"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/WidgetViewController.nib /Users/jasongullickson/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib0#
+
+CCompileXIB /Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+s291781029.579055
+e291781050.881860
+r1
+xCompileXIB
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+lSLF07#2@41"CompileXIB GaugeClusterViewController.xib291781029#291781050#0(0"0(0#0#86"/Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib4300911832#563"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/GaugeClusterViewController.nib /Users/jasongullickson/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib0#
+
+CCompileXIB /Users/jasongullickson/Dropbox/Development/GaugeCluster/MainWindow.xib
+s291781029.494760
+e291781050.684587
+r1
+xCompileXIB
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib291781029#291781050#0(0"0(0#0#70"/Users/jasongullickson/Dropbox/Development/GaugeCluster/MainWindow.xib4300911832#531"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/MainWindow.nib /Users/jasongullickson/Dropbox/Development/GaugeCluster/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/DashApp.app/DashApp72.png DashApp72.png
+s298875172.844508
+e298875172.976973
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DashApp.app/DashApp72.png
+xDashApp72.png
+lSLF07#2@18"Copy DashApp72.png298875172#298875172#0(0"0(0#0#52"/Users/jasongullickson/Desktop/DashApp/DashApp72.png4300911832#457"    cd /Users/jasongullickson/Desktop/DashApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jasongullickson/Desktop/DashApp/DashApp72.png /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app0#
+
+CCpResource build/Debug-iphonesimulator/DashApp.app/DashAppIcon72.png DashAppIcon72.png
+s298875172.842730
+e298875172.978446
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DashApp.app/DashAppIcon72.png
+xDashAppIcon72.png
+lSLF07#2@22"Copy DashAppIcon72.png298875172#298875172#0(0"0(0#0#56"/Users/jasongullickson/Desktop/DashApp/DashAppIcon72.png4300911832#461"    cd /Users/jasongullickson/Desktop/DashApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jasongullickson/Desktop/DashApp/DashAppIcon72.png /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app0#
+
+CCpResource build/Debug-iphonesimulator/DashApp.app/buttonback.png buttonback.png
+s298875172.839992
+e298875172.976640
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DashApp.app/buttonback.png
+xbuttonback.png
+lSLF07#2@19"Copy buttonback.png298875172#298875172#0(0"0(0#0#53"/Users/jasongullickson/Desktop/DashApp/buttonback.png4300911832#458"    cd /Users/jasongullickson/Desktop/DashApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jasongullickson/Desktop/DashApp/buttonback.png /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app0#
+
+CCpResource build/Debug-iphonesimulator/DashApp.app/redbuttonback.png redbuttonback.png
+s298875172.840954
+e298875172.976798
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DashApp.app/redbuttonback.png
+xredbuttonback.png
+lSLF07#2@22"Copy redbuttonback.png298875172#298875172#0(0"0(0#0#56"/Users/jasongullickson/Desktop/DashApp/redbuttonback.png4300911832#461"    cd /Users/jasongullickson/Desktop/DashApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jasongullickson/Desktop/DashApp/redbuttonback.png /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app0#
+
+CGenerateDSYMFile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app.dSYM /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp
+s291764376.912530
+e291764376.936155
+r1
+xGenerateDSYMFile
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app.dSYM
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/DashApp.app.dSYM build/Debug-iphonesimulator/DashApp.app/DashApp291764376#291764376#0(0"0(0#0#93"/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp4300911832#404"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp -o /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app.dSYM0#
+
+CGenerateDSYMFile /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app.dSYM /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/DashApp
+s298875185.185623
+e298875185.904130
+r1
+xGenerateDSYMFile
+x/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app.dSYM
+x/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/DashApp
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/DashApp.app.dSYM build/Debug-iphonesimulator/DashApp.app/DashApp298875185#298875185#0(0"0(0#0#86"/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/DashApp4300911832#383"    cd /Users/jasongullickson/Desktop/DashApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/DashApp -o /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app.dSYM0#
+
+CGenerateDSYMFile /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app.dSYM /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp
+s291781065.143232
+e291781065.401386
+r1
+xGenerateDSYMFile
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app.dSYM
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/DashApp.app.dSYM build/Debug-iphonesimulator/DashApp.app/DashApp291781065#291781065#0(0"0(0#0#103"/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp4300911832#434"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app.dSYM0#
+
+CLd /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp normal i386
+s291764376.888565
+e291764376.912447
+r1
+xLd
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp
+xnormal
+xi386
+lSLF07#2@98"Link /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp291764376#291764376#0(0"0(0#0#0"4300911832#919"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -filelist /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/DashApp.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp0#
+
+CLd /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/DashApp normal i386
+s298875182.842954
+e298875185.185398
+r1
+xLd
+x/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/DashApp
+xnormal
+xi386
+lSLF07#2@91"Link /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/DashApp298875182#298875185#0(0"0(0#0#0"4300911832#884"    cd /Users/jasongullickson/Desktop/DashApp    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator -F/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator -filelist /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/DashApp.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/DashApp0#
+
+CLd /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp normal i386
+s291781064.346753
+e291781065.142993
+r1
+xLd
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp
+xnormal
+xi386
+lSLF07#2@108"Link /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp291781064#291781065#0(0"0(0#0#0"4300911832#969"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -filelist /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/Objects-normal/i386/DashApp.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/DashApp0#
+
+CProcessInfoPlistFile /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/Info.plist DashApp-Info.plist
+s291763863.493237
+e291763863.510654
+r1
+xProcessInfoPlistFile
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/Info.plist
+xDashApp-Info.plist
+lSLF07#2@26"Process DashApp-Info.plist291763863#291763863#0(0"0(0#0#64"/Users/jason/Dropbox/Development/GaugeCluster/DashApp-Info.plist28147961534414964#500"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DashApp-Info.plist -genpkginfo /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/Info.plist DashApp-Info.plist
+s298875122.422453
+e298875122.573505
+r1
+xProcessInfoPlistFile
+x/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/Info.plist
+xDashApp-Info.plist
+lSLF07#2@26"Process DashApp-Info.plist298875122#298875122#0(0"0(0#0#57"/Users/jasongullickson/Desktop/DashApp/DashApp-Info.plist12666816341278818#479"    cd /Users/jasongullickson/Desktop/DashApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DashApp-Info.plist -genpkginfo /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/Info.plist DashApp-Info.plist
+s291781029.386714
+e291781029.494624
+r1
+xProcessInfoPlistFile
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/Info.plist
+xDashApp-Info.plist
+lSLF07#2@26"Process DashApp-Info.plist291781029#291781029#0(0"0(0#0#74"/Users/jasongullickson/Dropbox/Development/GaugeCluster/DashApp-Info.plist32088624093986912#530"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DashApp-Info.plist -genpkginfo /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app/Info.plist0#
+
+CProcessPCH /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-agmxacwwaqkqvldjlseiufwlntpa/DashApp_Prefix.pch.gch DashApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s291763864.569992
+e291763865.223664
+r1
+xProcessPCH
+x/var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-agmxacwwaqkqvldjlseiufwlntpa/DashApp_Prefix.pch.gch
+xDashApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile DashApp_Prefix.pch291763864#291763865#0(0"0(0#0#64"/Users/jason/Dropbox/Development/GaugeCluster/DashApp_Prefix.pch4300911832#1819"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -c /Users/jason/Dropbox/Development/GaugeCluster/DashApp_Prefix.pch -o /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-agmxacwwaqkqvldjlseiufwlntpa/DashApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bzvrknispqvhkiguvptffkhoumju/DashApp_Prefix.pch.gch DashApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s291501995.783862
+e291501997.049047
+r1
+xProcessPCH
+x/var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bzvrknispqvhkiguvptffkhoumju/DashApp_Prefix.pch.gch
+xDashApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile DashApp_Prefix.pch291501995#291501997#0(0"0(0#0#74"/Users/jasongullickson/Dropbox/Development/GaugeCluster/DashApp_Prefix.pch7008779092982326272#1919"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/DashApp_Prefix.pch -o /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bzvrknispqvhkiguvptffkhoumju/DashApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-fhyfosminfqgcggoxpufyyofihoq/DashApp_Prefix.pch.gch DashApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298875175.952220
+e298875180.971065
+r1
+xProcessPCH
+x/var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-fhyfosminfqgcggoxpufyyofihoq/DashApp_Prefix.pch.gch
+xDashApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile DashApp_Prefix.pch298875175#298875180#0(0"0(0#0#57"/Users/jasongullickson/Desktop/DashApp/DashApp_Prefix.pch4300911832#1749"    cd /Users/jasongullickson/Desktop/DashApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator -I/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/include -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jasongullickson/Desktop/DashApp/build/DashApp.build/Debug-iphonesimulator/DashApp.build/DerivedSources -c /Users/jasongullickson/Desktop/DashApp/DashApp_Prefix.pch -o /var/folders/H5/H5v4q9e-HDOOE9ze1VdkAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-fhyfosminfqgcggoxpufyyofihoq/DashApp_Prefix.pch.gch0#
+
+CTouch /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app
+s291764376.936224
+e291764376.938763
+r1
+xTouch
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app
+lSLF07#2@91"Touch /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app291764376#291764376#0(0"0(0#0#0"4300911832#292"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jason/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app0#
+
+CTouch /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app
+s298875185.904245
+e298875186.062957
+r1
+xTouch
+x/Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app
+lSLF07#2@84"Touch /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app298875185#298875186#0(0"0(0#0#0"4300911832#278"    cd /Users/jasongullickson/Desktop/DashApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jasongullickson/Desktop/DashApp/build/Debug-iphonesimulator/DashApp.app0#
+
+CTouch /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app
+s291781065.401491
+e291781065.418254
+r1
+xTouch
+x/Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app
+lSLF07#2@101"Touch /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app291781065#291781065#0(0"0(0#0#0"4300911832#312"    cd /Users/jasongullickson/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jasongullickson/Dropbox/Development/GaugeCluster/build/Debug-iphonesimulator/DashApp.app0#
+

@@ -1,0 +1,494 @@
+TDashApp
+v7
+r0
+t291369443.280969
+cCheck dependencies
+cProcessInfoPlistFile /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/Info.plist DashApp-Info.plist
+cCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib
+cCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+cCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+cCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+cCpResource build/Distribution-iphonesimulator/DashApp.app/buttonback.png buttonback.png
+cCpResource build/Distribution-iphonesimulator/DashApp.app/redbuttonback.png redbuttonback.png
+cCpResource build/Distribution-iphonesimulator/DashApp.app/DashAppIconSmall.png DashAppIconSmall.png
+cProcessPCH /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bdkqpfjaqgltbpcdwzhrcxbzxump/DashApp_Prefix.pch.gch DashApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/main.o /Users/jason/Dropbox/Development/GaugeCluster/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/DashApp normal i386
+cGenerateDSYMFile /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app.dSYM /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/DashApp
+cTouch /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BA4E0E00000000000000110
+t1269096672
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B9F1DB3000000000026F020
+t1268719027
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004B9F26A3000000000000007D
+t1268721315
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B9F27B9000000000011BF20
+t1268721593
+s1163040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F30E7000000000000098F
+t1268723943
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h
+c000000004B9F30E70000000000000833
+t1268723943
+s2099
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F3183000000000214E400
+t1268724099
+s34923520
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.h
+c000000004BADAC88000000000000036E
+t1269673096
+s878
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m
+c000000004BADABE7000000000000172B
+t1269672935
+s5931
+i"AddWidgetViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+c000000004BADAC9B0000000000007620
+t1269673115
+s30240
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.h
+c000000004BAA97C30000000000000281
+t1269471171
+s641
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m
+c000000004BAA97E10000000000000971
+t1269471201
+s2417
+i"GaugeClusterAppDelegate.h"
+i"GaugeClusterViewController.h"
+i"WidgetView.h"
+i"WidgetStorageClass.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.h
+c000000004BAA96370000000000000364
+t1269470775
+s868
+i<UIKit/UIKit.h>
+i<UIKit/UIWebView.h>
+i"WidgetStorageClass.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m
+c000000004BADA6D60000000000002E2C
+t1269671638
+s11820
+i"GaugeClusterViewController.h"
+i"WidgetView.h"
+i"AddWidgetViewController.h"
+i"WidgetStorageClass.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.h
+c000000004BAA998D00000000000001C7
+t1269471629
+s455
+i<Foundation/Foundation.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m
+c000000004BAA9BAB00000000000002A1
+t1269472171
+s673
+i"WidgetStorageClass.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.h
+c000000004BADA6800000000000000273
+t1269671552
+s627
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m
+c000000004BADAAB000000000000013A0
+t1269672624
+s5024
+i"WidgetView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.h
+c000000004BA6AB9000000000000000F8
+t1269214096
+s248
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m
+c000000004BA7C6B80000000000000C54
+t1269286584
+s3156
+i"WidgetViewController.h"
+
+N/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+c000000004BA6B1340000000000003F1B
+t1269215540
+s16155
+
+N/Users/jason/Dropbox/Development/GaugeCluster/DashAppIconSmall.png
+c000000004BADB3060000000000000AE3
+t1269674758
+s2787
+
+N/Users/jason/Dropbox/Development/GaugeCluster/DashApp_Prefix.pch
+c000000004B9EF22D00000000000000C1
+t1268707885
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+c000000004BAD8E410000000000004845
+t1269665345
+s18501
+
+N/Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib
+c000000004B9EF22C0000000000004D3B
+t1268707884
+s19771
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o
+t1269676643
+s48728
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/DashApp.LinkFileList
+c000000004BADBA610000000000000418
+t1269676641
+s1048
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o
+t1269676642
+s48528
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o
+t1269676642
+s55300
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o
+t1269676643
+s10972
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o
+t1269676643
+s28156
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o
+t1269676642
+s36464
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/main.o
+t1269676642
+s5936
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app
+t1269676643
+s408
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app.dSYM
+t1269676643
+s102
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/AddWidgetViewController.nib
+t1269676642
+s2844
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/DashApp
+t1269676643
+s45880
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/DashAppIconSmall.png
+t1269676641
+s2787
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/GaugeClusterViewController.nib
+t1269676641
+s769
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/Info.plist
+t1269676641
+s857
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/MainWindow.nib
+t1269676641
+s1127
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/PkgInfo
+t1269676641
+s8
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/WidgetViewController.nib
+t1269676641
+s800
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/buttonback.png
+t1269676641
+s2196
+
+N/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/redbuttonback.png
+t1269676641
+s1599
+
+N/Users/jason/Dropbox/Development/GaugeCluster/buttonback.png
+c000000004BAD99A00000000000000894
+t1269668256
+s2196
+
+N/Users/jason/Dropbox/Development/GaugeCluster/main.m
+c000000004B9EF22D0000000000000173
+t1268707885
+s371
+i<UIKit/UIKit.h>
+
+N/Users/jason/Dropbox/Development/GaugeCluster/redbuttonback.png
+c000000004BAD9A5D000000000000063F
+t1269668445
+s1599
+
+N/var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bdkqpfjaqgltbpcdwzhrcxbzxump/DashApp_Prefix.pch.gch
+t1269676642
+s13510544
+
+NDashApp-Info.plist
+c000000004BADBA5500000000000004C9
+t1269676629
+s1225
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291369441#291369441#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291369442.991276
+e291369443.194438
+r1
+xCompileC
+xbuild/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m291369442#291369443#0(0"0(0#0#79"/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m4300911832#2084"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bdkqpfjaqgltbpcdwzhrcxbzxump/DashApp_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/AddWidgetViewController.o0#
+
+CCompileC build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291369442.603243
+e291369442.757224
+r1
+xCompileC
+xbuild/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m291369442#291369442#0(0"0(0#0#79"/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m4300911832#2084"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bdkqpfjaqgltbpcdwzhrcxbzxump/DashApp_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterAppDelegate.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterAppDelegate.o0#
+
+CCompileC build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291369442.655291
+e291369442.991193
+r1
+xCompileC
+xbuild/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m291369442#291369442#0(0"0(0#0#82"/Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m4300911832#2090"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bdkqpfjaqgltbpcdwzhrcxbzxump/DashApp_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/GaugeClusterViewController.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/GaugeClusterViewController.o0#
+
+CCompileC build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291369443.106721
+e291369443.232637
+r1
+xCompileC
+xbuild/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m291369443#291369443#0(0"0(0#0#74"/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m4300911832#2074"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bdkqpfjaqgltbpcdwzhrcxbzxump/DashApp_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetStorageClass.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetStorageClass.o0#
+
+CCompileC build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291369442.870135
+e291369443.106634
+r1
+xCompileC
+xbuild/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m291369442#291369443#0(0"0(0#0#66"/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m4300911832#2058"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bdkqpfjaqgltbpcdwzhrcxbzxump/DashApp_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetView.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetView.o0#
+
+CCompileC build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291369442.757313
+e291369442.870050
+r1
+xCompileC
+xbuild/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m291369442#291369442#0(0"0(0#0#76"/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m4300911832#2078"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bdkqpfjaqgltbpcdwzhrcxbzxump/DashApp_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/WidgetViewController.o0#
+
+CCompileC build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/main.o /Users/jason/Dropbox/Development/GaugeCluster/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s291369442.602002
+e291369442.655131
+r1
+xCompileC
+xbuild/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/main.o
+x/Users/jason/Dropbox/Development/GaugeCluster/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/jason/Dropbox/Development/GaugeCluster/main.m291369442#291369442#0(0"0(0#0#52"/Users/jason/Dropbox/Development/GaugeCluster/main.m4300911832#2038"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bdkqpfjaqgltbpcdwzhrcxbzxump/DashApp_Prefix.pch -c /Users/jason/Dropbox/Development/GaugeCluster/main.m -o /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+s291369441.659733
+e291369442.059924
+r1
+xCompileXIB
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib
+lSLF07#2@46"CompileXIB Classes/AddWidgetViewController.xib291369441#291369442#0(0"0(0#0#81"/Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib4300911832#542"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/AddWidgetViewController.nib /Users/jason/Dropbox/Development/GaugeCluster/Classes/AddWidgetViewController.xib0#
+
+CCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+s291369441.490143
+e291369441.797747
+r1
+xCompileXIB
+x/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib
+lSLF07#2@43"CompileXIB Classes/WidgetViewController.xib291369441#291369441#0(0"0(0#0#78"/Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib4300911832#536"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/WidgetViewController.nib /Users/jason/Dropbox/Development/GaugeCluster/Classes/WidgetViewController.xib0#
+
+CCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+s291369441.123083
+e291369441.490077
+r1
+xCompileXIB
+x/Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib
+lSLF07#2@41"CompileXIB GaugeClusterViewController.xib291369441#291369441#0(0"0(0#0#76"/Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib4300911832#540"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/GaugeClusterViewController.nib /Users/jason/Dropbox/Development/GaugeCluster/GaugeClusterViewController.xib0#
+
+CCompileXIB /Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib
+s291369441.121468
+e291369441.659648
+r1
+xCompileXIB
+x/Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib291369441#291369441#0(0"0(0#0#60"/Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib4300911832#508"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/MainWindow.nib /Users/jason/Dropbox/Development/GaugeCluster/MainWindow.xib0#
+
+CCpResource build/Distribution-iphonesimulator/DashApp.app/DashAppIconSmall.png DashAppIconSmall.png
+s291369441.800300
+e291369441.812961
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/DashApp.app/DashAppIconSmall.png
+xDashAppIconSmall.png
+lSLF07#2@25"Copy DashAppIconSmall.png291369441#291369441#0(0"0(0#0#66"/Users/jason/Dropbox/Development/GaugeCluster/DashAppIconSmall.png4300911832#513"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/DashAppIconSmall.png /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app0#
+
+CCpResource build/Distribution-iphonesimulator/DashApp.app/buttonback.png buttonback.png
+s291369441.797823
+e291369441.809779
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/DashApp.app/buttonback.png
+xbuttonback.png
+lSLF07#2@19"Copy buttonback.png291369441#291369441#0(0"0(0#0#60"/Users/jason/Dropbox/Development/GaugeCluster/buttonback.png4300911832#507"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/buttonback.png /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app0#
+
+CCpResource build/Distribution-iphonesimulator/DashApp.app/redbuttonback.png redbuttonback.png
+s291369441.799474
+e291369441.809593
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/DashApp.app/redbuttonback.png
+xredbuttonback.png
+lSLF07#2@22"Copy redbuttonback.png291369441#291369441#0(0"0(0#0#63"/Users/jason/Dropbox/Development/GaugeCluster/redbuttonback.png4300911832#510"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/jason/Dropbox/Development/GaugeCluster/redbuttonback.png /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app0#
+
+CGenerateDSYMFile /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app.dSYM /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/DashApp
+s291369443.256027
+e291369443.275149
+r1
+xGenerateDSYMFile
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app.dSYM
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/DashApp
+lSLF07#2@123"GenerateDSYMFile build/Distribution-iphonesimulator/DashApp.app.dSYM build/Distribution-iphonesimulator/DashApp.app/DashApp291369443#291369443#0(0"0(0#0#100"/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/DashApp4300911832#418"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/DashApp -o /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app.dSYM0#
+
+CLd /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/DashApp normal i386
+s291369443.232714
+e291369443.255947
+r1
+xLd
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/DashApp
+xnormal
+xi386
+lSLF07#2@105"Link /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/DashApp291369443#291369443#0(0"0(0#0#0"4300911832#947"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator -F/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator -filelist /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/Objects-normal/i386/DashApp.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/DashApp0#
+
+CProcessInfoPlistFile /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/Info.plist DashApp-Info.plist
+s291369441.116516
+e291369441.121399
+r1
+xProcessInfoPlistFile
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/Info.plist
+xDashApp-Info.plist
+lSLF07#2@26"Process DashApp-Info.plist291369441#291369441#0(0"0(0#0#64"/Users/jason/Dropbox/Development/GaugeCluster/DashApp-Info.plist4300911832#514"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DashApp-Info.plist -genpkginfo /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app/Info.plist0#
+
+CProcessPCH /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bdkqpfjaqgltbpcdwzhrcxbzxump/DashApp_Prefix.pch.gch DashApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s291369442.060023
+e291369442.601865
+r1
+xProcessPCH
+x/var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bdkqpfjaqgltbpcdwzhrcxbzxump/DashApp_Prefix.pch.gch
+xDashApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile DashApp_Prefix.pch291369442#291369442#0(0"0(0#0#64"/Users/jason/Dropbox/Development/GaugeCluster/DashApp_Prefix.pch4300911832#1916"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-generated-files.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-own-target-headers.hmap -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-all-target-headers.hmap -iquote /Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DashApp-project-headers.hmap -F/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator -I/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/include -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources/i386 -I/Users/jason/Dropbox/Development/GaugeCluster/build/DashApp.build/Distribution-iphonesimulator/DashApp.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/jason/Dropbox/Development/GaugeCluster/DashApp_Prefix.pch -o /var/folders/46/46LDlTOQEzmGBjqbdEJCc++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DashApp_Prefix-bdkqpfjaqgltbpcdwzhrcxbzxump/DashApp_Prefix.pch.gch0#
+
+CTouch /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app
+s291369443.275222
+e291369443.280918
+r1
+xTouch
+x/Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app
+lSLF07#2@98"Touch /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app291369443#291369443#0(0"0(0#0#0"4300911832#299"    cd /Users/jason/Dropbox/Development/GaugeCluster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jason/Dropbox/Development/GaugeCluster/build/Distribution-iphonesimulator/DashApp.app0#
+
