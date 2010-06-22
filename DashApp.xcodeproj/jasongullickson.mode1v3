@@ -273,7 +273,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>11</integer>
+									<integer>4</integer>
 									<integer>3</integer>
 									<integer>0</integer>
 								</array>
@@ -316,7 +316,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>WidgetView.m</string>
+								<string>GaugeClusterAppDelegate.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -324,11 +324,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>WidgetView.m</string>
+										<string>GaugeClusterAppDelegate.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>BEBA0DEF11D079A300B983E9</string>
+										<string>BE70CCCC11D07C5A009F7687</string>
 										<key>history</key>
 										<array>
 											<string>BEC9F18A1157016C005D16D5</string>
@@ -342,7 +342,8 @@
 											<string>BE8EDB1A115FF7AF00F3B177</string>
 											<string>BE8EDB34115FF8EF00F3B177</string>
 											<string>BE8EDB5C115FFBD500F3B177</string>
-											<string>BE118A3D11643A5C00F4452F</string>
+											<string>BE70CCCA11D07C5A009F7687</string>
+											<string>BE70CCCB11D07C5A009F7687</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -400,9 +401,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>BEBA0DDF11D078DB00B983E9</string>
+				<string>BE70CCCD11D07C5A009F7687</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>BEBA0DE011D078DB00B983E9</string>
+				<string>BE70CCCE11D07C5A009F7687</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -540,7 +541,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>BEED4197114F29BD00D9A408</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>/Users/jasongullickson/Desktop/DashApp/DashApp.xcodeproj</string>
@@ -623,7 +623,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>BEED4197114F29BD00D9A408</string>
-				<string>BEBA0DE111D078DB00B983E9</string>
+				<string>BE70CCCF11D07C5A009F7687</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -745,13 +745,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>BEBA0DE211D078DB00B983E9</string>
+				<string>BE70CCD011D07C5A009F7687</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>BEBA0DE311D078DB00B983E9</string>
-				<string>BEBA0DE411D078DB00B983E9</string>
-				<string>BEBA0DE511D078DB00B983E9</string>
-				<string>BEBA0DE611D078DB00B983E9</string>
-				<string>BEBA0DE711D078DB00B983E9</string>
+				<string>BE70CCD111D07C5A009F7687</string>
+				<string>BE70CCD211D07C5A009F7687</string>
+				<string>BE70CCD311D07C5A009F7687</string>
+				<string>BE70CCD411D07C5A009F7687</string>
+				<string>BE70CCD511D07C5A009F7687</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
