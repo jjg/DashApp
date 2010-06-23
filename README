@@ -1,0 +1,9 @@
+To build DashApp you'll need an Intel Mac with XCode installed.
+
+To run DashApp on real hardware (not just the emulator) you'll need a valid developer profile from the Apple Developer Program (at least, that's the only way I know how you can do it).
+
+To build, double-click DashApp.xcodeproj and then click "Build & Run".
+
+If you have questions or need assistance visit http://www.gullicksonlaboratories.com
+
+
